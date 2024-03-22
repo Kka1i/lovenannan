@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "question": "Historically, which of the following types of funds typically trade at a discount to their NAV?",
+            "options": [
+                "a) Open-end funds",
+                "b) Closed-end funds",
+                "c) Both open-end and closed-end funds",
+                "d) Neither open-end nor closed-end funds"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Compared to open-end funds, closed-end funds offer all of the following advantages to investors except:",
+            "options": [
+                "a) Closed-end funds can be short-sold. Open-end funds cannot.",
+                "b) Closed-end funds are typically more fully invested than open-end funds.",
+                "c) Closed-end funds are typically more fully diversified than open-end funds.",
+                "d) Capital gains, dividends and interest distributions are paid directly to closed-end fund investors."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What is a potential disadvantage of REIT investment?",
+            "options": [
+                "a) REITs are not subject to full disclosure rules.",
+                "b) REITs may not provide limited liability to investors.",
+                "c) REITs are not liquid investments compared to real estate.",
+                "d) REITs do not provide income for investors – all growth is in the form of capital gains."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In terms of advisor compensation,",
+            "options": [
+                "a) ETF purchasers always pay a commission.",
+                "b) ETF purchases always pay a back-end load.",
+                "c) ETF purchases pay a commission, unless the purchase is within a fee-based account.",
+                "d) ETF purchases will always pay a load, but it could be either back-end or front-end."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Tracking error is usually defined as the…",
+            "options": [
+                "a) simple difference between the predicted return of the ETF and its actual return.",
+                "b) simple difference between the return on the underlying index or reference asset and the return of the ETF.",
+                "c) negative return that the investor experiences by investing in the ETF rather than investing directly in the reference asset.",
+                "d) fees that the investor must pay for the ETF compared to a fee-free investment in the underlying reference asset."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Private equity finances firms in all of the following ways except…",
+            "options": [
+                "a) turnaround.",
+                "b) distressed debt.",
+                "c) leveraged buyout.",
+                "d) secondary offerings."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "What allows private equity managers to have access to legitimate inside information?",
+            "options": [
+                "a) Private equity managers have greater expertise than most investors.",
+                "b) Private equity managers are often buying majority ownership in the company.",
+                "c) Private equity managers develop special relationships with company management.",
+                "d) There is no such thing as “legitimate inside information.”"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor in a venture capital fund would like to sell his holdings before the lock-up period. Therefore, it will likely be necessary to sell his holdings…",
+            "options": [
+                "a) back to the venture capital fund at its market value.",
+                "b) back to the venture capital fund at a discount to its market value.",
+                "c) to a third party at a discount to its market value.",
+                "d) It is not possible to sell holdings during the lock-up period."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Key differences in the fee structure for managed accounts, compared to mutual funds include all of the following except…",
+            "options": [
+                "a) fees are transparent.",
+                "b) fees tend to be lower.",
+                "c) fees are not standardized.",
+                "d) fees are tax-deductible for registered accounts."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The fees in a fee-based account are least likely to be based on the…",
+            "options": [
+                "a) type of investment.",
+                "b) dollar size of the account.",
+                "c) estimated number of trades.",
+                "d) client’s investment objectives."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is not true with respect to discretionary and managed accounts?",
+            "options": [
+                "a) Discretionary accounts may not be solicited. Managed accounts may be solicited.",
+                "b) Managed accounts are usually opened for a short period of time, as a matter of convenience. Discretionary accounts are managed on an on-going basis.",
+                "c) Discretionary authority with respect to a managed account must be given by the client in writing.",
+                "d) IAs other than partners or directors may not accept authorization for a simple discretionary account."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Single-manager accounts…",
+            "options": [
+                "a) pursue a passive management style in order to minimize fees.",
+                "b) manage each account differently, placing unique trades for each one.",
+                "c) are much more concerned with asset allocation than individual security selection.",
+                "d) often maintain a model portfolio and then execute bulk purchases and sales."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In a multi-manager account structure, the overlay manager is least likely to be responsible for which of the following?",
+            "options": [
+                "a) Individual security selection",
+                "b) Providing market insight to advisors",
+                "c) Setting the overall optimal asset mix",
+                "d) Conducting ongoing due diligence reviews"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "How does a mutual fund wrap differ from a fund of funds?",
+            "options": [
+                "a) In the mutual fund wrap, the client holds the actual funds.",
+                "b) In the mutual fund wrap, the client decides which funds he/she prefers.",
+                "c) In the mutual fund wrap, fees are much lower than holding individual mutual funds.",
+                "d) In the mutual fund wrap, returns are guaranteed."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "What is a unique benefit of multi-disciplinary accounts?",
+            "options": [
+                "a) Lower fees",
+                "b) Lower volatility",
+                "c) Higher levels of optimal asset allocation",
+                "d) Greater access to the portfolio managers"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The private family office is targeted to clients with assets in excess of…",
+            "options": [
+                "a) $ 500,000.",
+                "b) $ 1,000,000.",
+                "c) $10,000,000.",
+                "d) $50,000,000."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A principal-protected note is best understood as a(n)…",
+            "options": [
+                "a) debt-like security that does not have a maturity date.",
+                "b) debt-like security that has a maturity date.",
+                "c) equity-like security that does not have a maturity date.",
+                "d) equity-like security that has a maturity date."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "PPN’s are least likely to be based on…",
+            "options": [
+                "a) indexes.",
+                "b) hedge funds.",
+                "c) mutual funds.",
+                "d) exchange-traded funds."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "What kind of bond is frequently combined with a call option to create a principal protected note?",
+            "options": [
+                "a) long-term bond",
+                "b) short-term bond",
+                "c) zero-coupon bond",
+                "d) Government of Canada bond"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchased a PPN for $25,000 whose return was linked to the S&P/TSX 60. Five years later when the PPN matured, it was worth $30,000. The $5,000 gain would most likely be taxed as…",
+            "options": [
+                "a) capital gains.",
+                "b) interest income.",
+                "c) either capital gains or interest income – the investor would decide.",
+                "d) either capital gains or interest income – the originator would decide."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An index has an initial level of 10,500 and an ending level of 13,000. If an index-linked GIC has a participation rate of 40%, the investor’s return would be closest to…",
+            "options": [
+                "a) 5%",
+                "b) 10%",
+                "c) 15%",
+                "d) 25%"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor is contemplating purchasing either a preferred share or capital share from a newly created split share structure. If she believed that the underlying company would be very profitable, and it would reward shareholders by buying back shares in open market operations, she would buy…",
+            "options": [
+                "a) capital shares.",
+                "b) preferred shares.",
+                "c) both capital and preferred shares.",
+                "d) neither capital nor preferred shares."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which investors in the split share structure expose themselves to “inherent leverage”?",
+            "options": [
+                "a) Capital share investors.",
+                "b) Capital share investors, but only if they are buying the shares on margin.",
+                "c) Preferred share investors.",
+                "d) Preferred share investors, but only if they are buying the shares on margin."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In the securitization process, the originator pools assets into a reference portfolio and sells them to a separate legal entity known as a(n)…",
+            "options": [
+                "a) mezzanine tranche.",
+                "b) unique purpose vehicle.",
+                "c) special purpose vehicle.",
+                "d) senior securitized tranche."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Mortgage-backed securities (MBSs) are also known as…",
+            "options": [
+                "a) pass-through securities.",
+                "b) special purpose vehicles.",
+                "c) collateralized debt obligations.",
+                "d) asset-backed commercial paper"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Closed-end funds that have the flexibility to buy back their outstanding shares are known as…",
+            "options": [
+                "a) open funds",
+                "b) unitary funds.",
+                "c) interval funds.",
+                "d) discrete funds."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "In what manner are income trusts most similar to fixed-income securities like bonds and debentures?",
+            "options": [
+                "a) Income trusts trade over-the-counter.",
+                "b) Income trusts have a set maturity date.",
+                "c) Income trusts pay distributions semi-annually.",
+                "d) Income trusts re-act to changing interest rates."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "REIT managers are most likely to invest in…",
+            "options": [
+                "a) newly developed properties to minimize risk.",
+                "b) newly developed properties in order to maximize return.",
+                "c) established income-producing properties to minimize risk.",
+                "d) established income-producing properties to maximize return."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An ETF has been established where construction rules are developed by the ETF provider and published in advance. This would be understood as a(n)",
+            "options": [
+                "a) active ETF.",
+                "b) synthetic ETF.",
+                "c) rules-based ETF.",
+                "d) covered call ETF."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The use of leveraged ETFs implies a…",
+            "options": [
+                "a) lower risk tolerance for the investor.",
+                "b) higher risk tolerance for the investor.",
+                "c) lower return requirement for the investor.",
+                "d) higher return requirement for the investor."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A commodity ETF…",
+            "options": [
+                "a) is prohibited from using derivatives.",
+                "b) may use futures contracts to replicate physical holding.",
+                "c) may use futures contracts, but may not roll them over.",
+                "d) may use option contracts, and must roll them over."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Private equity financing in underperforming or out of favour industries that are undergoing restructuring is understood as…",
+            "options": [
+                "a) turnaround.",
+                "b) early stage.",
+                "c) later stage.",
+                "d) growth capital."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following most accurately describes the role of private equity managers in the participation of a company in which they have invested?",
+            "options": [
+                "a) Private equity managers almost never participate.",
+                "b) Private equity managers only participate if the company is undergoing financial difficulties.",
+                "c) Private equity managers participate in developing the business plan and selecting senior executives.",
+                "d) Private equity managers typically make themselves the CEO and President and also have a presence on the Board of Directors."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is least likely to be a reason to account for the strong growth rate in fee-based accounts?",
+            "options": [
+                "a) Affluent clients approve of having the advisor’s fee linked to the performance of their portfolio.",
+                "b) Advisors can spend more time on financial planning and wealth management needs under the fee-based model.",
+                "c) There is less disclosure under the fee-based model, which means the client is not inundated with confusing information.",
+                "d) The fee-based model provides the client with more confidence in the advisor because the client doesn’t worry that trades are being put through to generate commissions."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not a key difference between the fees for managed accounts and mutual fund MERs?",
+            "options": [
+                "a) Fees tend to be lower for managed accounts.",
+                "b) Fees are not standardized for managed accounts.",
+                "c) Fees are tax-deductible for non-registered, managed accounts.",
+                "d) Fees are bundled in managed accounts and broken out more clearly with mutual funds."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A high net worth investor who monitors his portfolio very carefully is planning a month long hiking trip in South America. As a matter of convenience, it might make sense for him to open a(n)...",
+            "options": [
+                "a) managed account.",
+                "b) fee-based account.",
+                "c) discretionary account.",
+                "d) single-manager account."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "All of the following are rules for managed and discretionary accounts except…",
+            "options": [
+                "a) Discretionary authority may not be solicited whereas managed accounts may be solicited.",
+                "b) Only partners and directors may accept authorization for a simple discretionary account.",
+                "c) Discretionary authority with respect to a managed account must be given in writing by the client.",
+                "d) There is a strict time limit of no more than one year that gives the Investment Advisor the authority to manage the account."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following best describes the “active” approach for an exchangetraded wrap account?",
+            "options": [
+                "a) The manager determines the client’s long term risk tolerance, then applies a short-term tactical allocation approach.",
+                "b) The manager determines the client’s long term risk tolerance, then applies a short-term dynamic allocation approach.",
+                "c) The manager determines the client’s long term risk tolerance, then applies a short-term strategic allocation approach.",
+                "d) The manager determines the client’s long term return requirement, then actively manages the ETFs to achieve that return objective."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Multi-manager accounts require the services of a(n)...",
+            "options": [
+                "a) overlay manager.",
+                "b) supervisory manager.",
+                "c) due diligence manager.",
+                "d) mutual fund wrap manager."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In the unified managed account structure, the investing models are held within the account in _______ to effectively combine detailed reporting of separately managed accounts, while maintaining the enhancement of the single custody account.",
+            "options": [
+                "a) silos",
+                "b) wraps",
+                "c) sleeves",
+                "d) portfolios"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not true of principal-protected notes (PPNs)?",
+            "options": [
+                "a) It is a debt instrument issued by a bank.",
+                "b) In Canada, PPNs are issued only by the big insurers.",
+                "c) The interest rate is tied performance of an underlying asset.",
+                "d) The three main PPN functions performed by the banks are guarantor, manufacturer and distributor."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The two most popular types of PPNS issued in Canada are…",
+            "options": [
+                "a) Index-Linked PPNs with a participation rate and Stock Basket-Linked PPNs.",
+                "b) Index-Linked PPNs without a participation rate and Stock BasketLinked PPNs.",
+                "c) Stock Market-Linked PPNs with a participation rate and Hedge-Fund Linked PPNs.",
+                "d) Stock Market-Linked PPNs without a participation rate and HedgeFund Linked PPNs."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which is least likely to be one of the risks associated with PPNs?",
+            "options": [
+                "a) Credit risk",
+                "b) Default risk",
+                "c) Liquidity risk",
+                "d) Performance risk"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor in an index-linked GIC prefers…",
+            "options": [
+                "a) high index returns and a cap rate of 0%.",
+                "b) high index returns and a cap rate of 50%.",
+                "c) high index returns and a cap rate of 90%.",
+                "d) An investor in an index-linked GIC is not impacted by the cap rate."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "When split shares are created, it is generally for a term of…",
+            "options": [
+                "a) one year.",
+                "b) one year to three years.",
+                "c) one year to five years.",
+                "d) three years to ten years."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The originator in an asset-back securities generally groups the assets and sells them to a…",
+            "options": [
+                "a) guarantor.",
+                "b) originator.",
+                "c) strategic partner.",
+                "d) special purpose entity."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which is not one of the tiers in a standard 3-tier tranche for an asset-backed security?",
+            "options": [
+                "a) junior",
+                "b) senior",
+                "c) secured",
+                "d) mezzanine"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What is the primary reason why asset-backed commercial paper was initially designed to mature from 90 to 180 days?",
+            "options": [
+                "a) A short maturity minimized rollover risk.",
+                "b) A short maturity minimized business risk.",
+                "c) A short maturity minimized interest rate risk.",
+                "d) A short maturity minimized pass-through risk."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which is the primary benefit of a mortgage-backed security?",
+            "options": [
+                "a) There is no prepayment risk.",
+                "b) There is a monthly income stream.",
+                "c) The term is always a minimum of 10 years.",
+                "d) The income stream is composed of interest and capital gains."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following is not another benefit of a mortgage-backed security?",
+            "options": [
+                "a) They are very liquid.",
+                "b) The minimum investment is $1,000.",
+                "c) They are eligible for RRSPs and RRIFs.",
+                "d) They are fully guaranteed by the Government of Canada."
+            ],
+            "answer": "2"
+        }
+    ]
+}

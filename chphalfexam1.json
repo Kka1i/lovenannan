@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "question": "An investor had $1,000 to divide into a two security portfolio. She put 70% into Security A and the remainder into Security B. Security A returned 8% and Security B returned 6%. What is the total dollar appreciation in the portfolio?",
+            "options": [
+                "a) $68.00",
+                "b) $70.00",
+                "c) $74.00",
+                "d) $78.00"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Mr. Y is married to Ms. X. Both of them earn $50,000 per year. If Mr. Y contributes $5,000 into his RRSP, then how much could he contribute into his wife’s RRSP plan?",
+            "options": [
+                "a) $ 0.00",
+                "b) $4,000",
+                "c) $9,000",
+                "d) $13,000"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Quantitative methods of analysis can be applied in…",
+            "options": [
+                "a) neither fundamental nor technical analysis.",
+                "b) fundamental analysis only.",
+                "c) technical analysis only.",
+                "d) both fundamental and technical analysis."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In the mutual fund structure, who holds the ultimate responsibility for the activities of the fund?",
+            "options": [
+                "a) Directors",
+                "b) Fund Managers",
+                "c) Distributors",
+                "d) Custodians"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Generally speaking, compared to mutual funds that invest in the same class of securities, the MERs of segregated funds are…",
+            "options": [
+                "a) lower",
+                "b) the same",
+                "c) higher",
+                "d) It is not possible to generalize."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not true with respect to the sector rotator manager style?",
+            "options": [
+                "a) It applies a top-down investing approach.",
+                "b) Managers typically buy liquid, large-cap stocks.",
+                "c) The primary focus is to identify the current phase of the business cycle.",
+                "d) The turnover for this style tends to be low."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The Life-Expectancy Adjusted Withdrawal Plan is a variation of the…",
+            "options": [
+                "a) Fixed-Period Withdrawal Plan.",
+                "b) Fixed-Dollar Withdrawal Plan.",
+                "c) Ratio Withdrawal Plan.",
+                "d) None of the above."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The most popular indicator for tracking momentum and conducting divergence analysis is/are…",
+            "options": [
+                "a) oscillators",
+                "b) MACD",
+                "c) Cycle Analysis",
+                "d) Elliott Wave Theory"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "You are an investment advisor dealing with a new client, Mr. Weepy. He is adamant that you will not invest in any of the Canadian Chartered Banks because one of them forced his parents into bankruptcy years ago. This constraint should be understood as a(n)…",
+            "options": [
+                "a) legal requirement.",
+                "b) moral and ethical consideration.",
+                "c) emotional factor.",
+                "d) realism factor."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The volatility of bond funds is related to…",
+            "options": [
+                "a) the volatility of the stock market.",
+                "b) phases of the business cycle.",
+                "c) interest rate fluctuations.",
+                "d) By definition, bond funds are not volatile, holding their NAV at a constant $10 per unit."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor received $100 in capital gains and $100 in dividends from a taxable Canadian Corporation. Assuming a 26% Federal Tax Bracket, what is the total amount of tax she’d have to pay from both sources of income?",
+            "options": [
+                "a) $23.15",
+                "b) $27.45",
+                "c) $30.65",
+                "d) $39.00"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In Canada, mutual funds must be set up as…",
+            "options": [
+                "a) open-end trusts.",
+                "b) closed-end trusts.",
+                "c) closed-end trusts or corporations.",
+                "d) open-end trusts, closed-end trusts or corporations."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In order to calculate the Sharpe ratio for a portfolio, in addition to the return or expected return of the portfolio, you must know…",
+            "options": [
+                "a) the risk-free rate.",
+                "b) the standard deviation of the portfolio.",
+                "c) the standard deviation of the portfolio or the risk-free rate.",
+                "d) the standard deviation of the portfolio and the risk-free rate."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "For a technical analyst, a resistance level is where…",
+            "options": [
+                "a) supply exceeds demand and prices begin to fall.",
+                "b) supply exceeds demand and prices begin to rise.",
+                "c) demand exceeds supply and prices begin to fall.",
+                "d) demand exceeds supply and prices begin to rise."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Hedge funds targeted toward high-net worth and institutional investors are generally structured as…",
+            "options": [
+                "a) general partnership and trusts.",
+                "b) limited partnerships and trusts.",
+                "c) general partnerships and limited partnerships.",
+                "d) corporations."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The central document of segregated fund disclosure is the…",
+            "options": [
+                "a) simplified prospectus.",
+                "b) prospectus.",
+                "c) information folder.",
+                "d) offering memorandum."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not true of the management expense ratio?",
+            "options": [
+                "a) It is lower than the management fees.",
+                "b) It excludes trading and brokerage costs.",
+                "c) It tends to be higher for equity funds than for money market and index funds.",
+                "d) It is expressed as a percentage of the fund’s average net asset value for the year."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor begins the year with a portfolio worth $250,000. She is properly balanced with 60% of her portfolio in equities, 30% in bonds, and 10% cash. Over the year, the equity portion increases by 5% and the bond portion falls by 10%. The cash portion is unchanged. In order to re-balance the portfolio correctly, the manager would have to…",
+            "options": [
+                "a) sell $2,250 in equities and buy $2,250 in bonds.",
+                "b) sell $7,500 in equities and buy $5,000 in bonds and $2,500 in cash.",
+                "c) sell $7,500 in equities and buy $7,500 in bonds.",
+                "d) do nothing – the portfolio’s value hasn’t changed."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor is holding mutual fund units in her non-registered account. As long as she does not sell the units…",
+            "options": [
+                "a) she will not be responsible for paying any tax on gains.",
+                "b) she will be responsible for paying tax on all gains.",
+                "c) she will be responsible for paying tax on dividend and interest income only.",
+                "d) she will be responsible for paying tax on dividend and interest income and realized gains only."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Ford Motor Company is an example of a(n)…",
+            "options": [
+                "a) blue-chip company.",
+                "b) commodity basic cyclical company.",
+                "c) industrial cyclical company.",
+                "d) consumer cyclical company."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following ensures that a hedge fund manager is paid an incentive fee only on net new profits?",
+            "options": [
+                "a) lockup period",
+                "b) high-water mark",
+                "c) relative value",
+                "d) accredited investor exemption"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Assume that December 31st falls on a Friday. If an investor wants to capture a tax loss on common shares for that year, he must sell on or before…",
+            "options": [
+                "a) December 24th",
+                "b) December 28th",
+                "c) December 31st",
+                "d) February 28th"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A mutual fund prospectus is normally _______ than a typical prospectus for a new issue of common shares.",
+            "options": [
+                "a) longer and more complicated",
+                "b) more detailed and more complicated",
+                "c) shorter and simpler",
+                "d) shorter and sweeter"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Justine Lowe is a young professional woman with an above-average ability and willingness to assume risk and a long time horizon. As a result, an appropriate asset allocation for her might be…",
+            "options": [
+                "a) 100% equities",
+                "b) 80% equities and 20% bonds",
+                "c) 70% equities, 25% bonds and 5% cash",
+                "d) 34% equities, 33% bonds and 33% cash"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following securities best reduces systematic risk?",
+            "options": [
+                "a) equity mutual funds",
+                "b) equity index funds",
+                "c) long-short hedge fund",
+                "d) No security reduces systematic risk."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "One focus of National Instrument 81 – 102 which covers the use of derivatives by mutual fund managers is to…",
+            "options": [
+                "a) allow the use of derivatives to minimize risk while ensuring that derivatives are not used speculatively.",
+                "b) prevent mutual fund managers from using derivatives to facilitate market entry and exit.",
+                "c) disallow mutual fund managers from using derivatives to create clone funds.",
+                "d) ensure that the use of permitted derivatives is clearly set out in the fund’s simplified prospectus."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "You are examining an industry where profit margins are falling, even as cash flow is negative. At the same time, strong earnings are being reported. You would conclude…",
+            "options": [
+                "a) that management is not fully disclosing.",
+                "b) that this industry is in its emerging stage.",
+                "c) that this industry is in its growth stage.",
+                "d) that this industry is in its declining stage."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "You are about to meet a 40-year old prospect for the first time. She has been employed for the same company for 12 years and recently made Vice-President. Given that she is in her mid-earning years, it is likely that her investment objectives would be…",
+            "options": [
+                "a) safety and growth.",
+                "b) income and tax minimization.",
+                "c) growth and income.",
+                "d) growth and tax minimization."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A security is currently $25 per share. You think that there is a 50% chance that it will be unchanged over the course of the next year, and a 50% chance that it will reach $30. Its beta is 1.2, the expected market return is 8%, and the risk-free rate is 5%. According to the CAPM model…",
+            "options": [
+                "a) You should not buy this security because its expected return of 10% is not more than 20% greater than the 8% market return.",
+                "b) You should not buy this security because its expected return of 10% is not more than 20% greater than the 8.6% return estimated by the CAPM model.",
+                "c) You should buy this security its expected return of 10% exceeds the 8.0% expected return of the market.",
+                "d) You should buy this security because its expected return of 10% exceeds the 8.6% required by the CAPM model."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Refer to Question #29. What is the security’s alpha?",
+            "options": [
+                "a) 0.0",
+                "b) 1.4",
+                "c) 2.0",
+                "d) Insufficient information."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The most frequently observed reversal pattern in technical analysis is the…",
+            "options": [
+                "a) head-and-shoulders formation",
+                "b) reverse head-and-shoulders formation",
+                "c) continuation pattern",
+                "d) oscillator pattern"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is not true with respect to RESPs?",
+            "options": [
+                "a) Contributions into an RESP plan are not tax-deductible.",
+                "b) The maximum amount that can be contributed in a single calendar year for each beneficiary is $4,000.",
+                "c) Contributors are allowed to transfer a maximum of $50,000 to their RRSPs if beneficiaries do not attend qualifying school programs.",
+                "d) There is a lifetime maximum of $100,000 per beneficiary."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The back-end load schedule for a mutual fund starts at 6% in year one and declines by 1% each year thereafter. It is based on current market value. An investor paid $21 a unit and 18 months later sold her units when they were $18. The back-end load would be…",
+            "options": [
+                "a) $.90",
+                "b) $1.00",
+                "c) $1.08",
+                "d) $1.26"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The rate of inflation and price-earnings multiple have…",
+            "options": [
+                "a) a direct relation.",
+                "b) an indirect relation.",
+                "c) an inverse relation.",
+                "d) no relation."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "According to Provincial legislation, the maximum maturity guarantee for a segregated fund is…",
+            "options": [
+                "a) 75% after a five year holding period.",
+                "b) 75% after a ten year holding period,",
+                "c) 100% after a five year holding period.",
+                "d) 100% after a ten year holding period."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "At what age is it necessary for a Canadian citizen to terminate an RRSP plan?",
+            "options": [
+                "a) 65",
+                "b) 69",
+                "c) 71",
+                "d) 90"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What is the offering or purchase price for a mutual fund with a NAV of $20 and a Sales Charge of 5%?",
+            "options": [
+                "a) $19.00",
+                "b) $19.50",
+                "c) $21.00",
+                "d) $21.05"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The nominal return for a security was 6%. If inflation were 3%, then its real return was…",
+            "options": [
+                "a) 0%",
+                "b) 3%",
+                "c) 9%",
+                "d) Insufficient information."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "All of the following are benefits of hedge funds except…",
+            "options": [
+                "a) low correlation to traditional asset classes",
+                "b) absolute return",
+                "c) potentially lower volatility and higher returns",
+                "d) tax implications"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A security will earn $2.00 this year and has a dividend payout ratio of 30%. If an analyst thinks that the company will have a long-term sustainable growth rate of 6%, then what required return is necessary to justify a fair market value of $20?",
+            "options": [
+                "a) 8%",
+                "b) 9%",
+                "c) 10%",
+                "d) Insufficient information."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In 2005, Inderpaul Singh earned $50,000 in salary and $10,000 in commissions from his employment. His gross rental income on a condominium $8,400 and the net rental income was $5,000. In addition, he earned $2,000 in interest income and $1,000 in capital gains. Given this information, what is his allowable RRSP contribution for this year?",
+            "options": [
+                "a) $10,800",
+                "b) $11,700",
+                "c) $12,150",
+                "d) $12,240"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A bond with one-year to maturity, carrying a 7% coupon was purchased at 103. What is its Total Return?",
+            "options": [
+                "a) 3.9%",
+                "b) 4.0%",
+                "c) 5.5%",
+                "d) 7.0%"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "All of the following are prohibited mutual fund practices except…",
+            "options": [
+                "a) purchases of more than 10% of the total securities of a single issuer.",
+                "b) buying on margin.",
+                "c) short-selling.",
+                "d) any exposure to private placements."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "All of the following are disadvantages of fund of hedge fund investing except…",
+            "options": [
+                "a) diversification",
+                "b) additional costs",
+                "c) additional leverage",
+                "d) no guarantees of positive returns"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "You are comparing three equity mutual funds that all began operations a decade ago. FUND A has returned 10% with a standard deviation of 12%. FUND B has returned 9% with a standard deviation of 15%. FUND C has returned 8% with a standard deviation of 8%. Based on this information alone, you would conclude that…",
+            "options": [
+                "a) FUND A has performed the best because it has the highest return.",
+                "b) FUND C has performed the best because it has the lowest volatility.",
+                "c) You would invest in either FUND A or FUND B.",
+                "d) You would invest in either FUND A or FUND C."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The difference between the working capital ratio and the quick ratio is…",
+            "options": [
+                "a) The working capital ratio is a more stringent test of liquidity.",
+                "b) To calculate the quick ratio, you deduct inventories from the working capital ratio.",
+                "c) Working capital ratio compares current assets to current liability while the quick ratio compares current assets to long-term liabilities.",
+                "d) There is no difference between the working capital ratio and the quick ratio."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "If an investment manager wanted the opportunity to allow deviation from the long-term asset mix, she should employ a…",
+            "options": [
+                "a) strategic approach.",
+                "b) tactical approach.",
+                "c) insured approach.",
+                "d) Deviations from the long-term asset mix are not allowable."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is at the base of the Financial Planning Pyramid?",
+            "options": [
+                "a) Home purchase.",
+                "b) RRSP investment.",
+                "c) Insurance.",
+                "d) RESP investment."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Passive management is most closely associated with…",
+            "options": [
+                "a) indexing.",
+                "b) multi-managers.",
+                "c) ethical investing.",
+                "d) specialty investing."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "You are examining a company that is issuing bonds and using the proceeds to buy back shares in the marketplace. As a result…",
+            "options": [
+                "a) its debt-equity ratio will be lower.",
+                "b) its debt-equity ratio will be unchanged.",
+                "c) its debt-equity ratio will be higher.",
+                "d) It could be any of the above depending on at what price the shares were purchased."
+            ],
+            "answer": "3"
+        }
+    ]
+}

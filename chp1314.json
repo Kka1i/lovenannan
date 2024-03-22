@@ -1,0 +1,514 @@
+
+{
+    "questions": [
+    {
+    "question": "According to a fundamental analyst, what is the single most important factor that affects the price of a corporate security?",
+    "options": [
+    "a) the past profitability of the issuer",
+    "b) the actual or expected profitability of the issuer",
+    "c) the stage of the business cycle the economy is in",
+    "d) the term structure of interest rates"
+    ],
+    "answer": 2
+    },
+    {
+    "question": "A security analyst believes that people make intelligent economic decisions after weighing all available information. This is consistent with the…",
+    "options": [
+    "a) efficient market hypothesis.",
+    "b) random walk theory.",
+    "c) rational expectations hypothesis.",
+    "d) pricing model paradigm."
+    ],
+    "answer": 3
+    },
+    {
+    "question": "A year ago, the yield on the one year bond was 4% while the yield on the ten year bond was 7%. Today, the yield on the one year has increased to 5% while the yield on the ten year has fallen to 6%. You would conclude…",
+    "options": [
+    "a) that the yield curve is inverted and that this is bearish for the equity markets.",
+    "b) that the yield curve is tilting and that this is bullish for the equity markets.",
+    "c) that bond prices are falling and that this is bearish for the equity market.",
+    "d) that bond prices are confused but the economy should experience hyper-fast growth over the long run."
+    ],
+    "answer": 2
+    },
+    {
+    "question": "You are studying a company that is paying a one-time dividend of $5 per share and the stock is $25. This is likely a(n)…",
+    "options": [
+    "a) initial growth company.",
+    "b) growth company.",
+    "c) mature company.",
+    "d) declining company."
+    ],
+    "answer": 3
+    },
+    {
+    "question": "The extent to which buyers of a given product or service can pressure the company to lower prices and the extent to which suppliers of raw materials can put pressure on the company by raising prices are two of the five basic competitive forces. Which of the following phrases contains the other three?",
+    "options": [
+    "a) ease of entry for new competitors, degree of competition between existing firms, potential pressure from substitute products",
+    "b) ease of entry for new competitors, degree of government protection, potential pressure from substitute products",
+    "c) degree of competition between existing firms, potential pressure from substitute product, degree of government protection",
+    "d) ease of entry for new competitors, potential pressure from substitute products, degree of technology used in the production process"
+    ],
+    "answer": 1
+    },
+    {
+    "question": "Which of the following is most closely associated with speculative industries?",
+    "options": [
+    "a) red-chip",
+    "b) blue-chip",
+    "c) growth industries",
+    "d) emerging industries"
+    ],
+    "answer": 4
+    },
+    {
+    "question": "A company in the marketplace will pay a $.50 dividend next year and has a growth rate of 6%. The required return on capital is 9% and inflation is running at 2%. The security is currently trading at $15 in the marketplace. You would recommend…",
+    "options": [
+    "a) buying the security because it is below the fair market value of $16.67 which the Dividend Discount Model suggests.",
+    "b) buying the security because it is below the fair market value of $50.00 which the Dividend Discount Model suggests.",
+    "c) buying the security because its growth rate and inflation total 8% which is less than the 9% required return on capital.",
+    "d) not buying the security because its growth rate and inflation total 8% which is less than the 9% required return on capital."
+    ],
+    "answer": 1
+    },
+    {
+    "question": "A company is projected to make $2.50 in earnings per share next year and expected to have a payout ratio of 20%. Its long term growth rate is 5%. If an investor requires a 10% return on risk capital, what is the fair market price for this security?",
+    "options": [
+    "a) $10.00",
+    "b) $15.00",
+    "c) $25.00",
+    "d) Insufficient information"
+    ],
+    "answer": 1
+    },
+    {
+    "question": "Refer to #8. The company in question actually pays an annual dividend of $.60. Now its fair market value will be…",
+    "options": [
+    "a) lower because the company has less money to re-invest in its operations.",
+    "b) the same because investors enjoy higher capital gains when dividends are modest.",
+    "c) higher because the market rewards companies that are able to pay high and steadily growing dividends.",
+    "d) Insufficient information."
+    ],
+    "answer": 3
+    },
+    {
+    "question": "What are the three primary sources of market action that any technical analyst looks at?",
+    "options": [
+    "a) price, volume, and time",
+    "b) price, volume, and volatility",
+    "c) volume, volatility, and oscillators",
+    "d) charts, indicators, and oscillators"
+    ],
+    "answer": 1
+    },
+    {
+    "question": "Which of the following is not one of the three assumptions that underlies technical analysis?",
+    "options": [
+    "a) the future repeats the past",
+    "b) markets are becoming increasingly inefficient",
+    "c) prices move in trends and these trends tend to persist over time",
+    "d) all influences on market action are automatically accounted for or discounted in price activity"
+    ],
+    "answer": 2
+    },
+    {
+    "question": "You are examining a chart and believe that a bottom head-and-shoulders pattern is forming, and the right shoulder has just broken the neckline on heavy volume. At this point, you should…",
+    "options": [
+    "a) go long the market.",
+    "b) confirm that the right shoulder is asymmetrical to the left shoulder and if it is, go long the market.",
+    "c) go short the market.",
+    "d) confirm that there is a continuation pattern with the bottom heads and shoulders and if there is, go short the market."
+    ],
+    "answer": 1
+    },
+    {
+    "question": "You are studying a chart and see that the moving average line is breaking the daily price line from below on heavy volume. You would…",
+    "options": [
+    "a) buy the security.",
+    "b) hold the security.",
+    "c) sell the security.",
+    "d) sell or short-sell the security."
+    ],
+    "answer": 1
+    },
+    {
+    "question": "Which of the following would you look for in a company’s balance sheet in order to judge that it is “leveraged”?",
+    "options": [
+    "a) contributed surplus, bonds and debentures",
+    "b) retained earnings, share capital and debentures",
+    "c) contributed surplus and bonds",
+    "d) debt and preferred shares"
+    ],
+    "answer": 4
+    },
+    {
+    "question": "A company earned $1.56 in 2011, $1.65 in 2012, $1.66 in 2013, and $1.80 in 2014. If 2012 is the base year, what is the Trend number for 2014 earnings?",
+    "options": [
+    "a) 1.09",
+    "b) 1.15",
+    "c) 109",
+    "d) 115"
+    ],
+    "answer": 3
+    },
+    {
+    "question": "The most stringent liquidity ratio is the…",
+    "options": [
+    "a) current ratio.",
+    "b) current ratio or working capital ratio.",
+    "c) working capital ratio or quick ratio.",
+    "d) acid test ratio."
+    ],
+    "answer": 4
+    },
+    {
+    "question": "The “Asset Coverage” ratio shows the ________ for each $1,000 of total debt outstanding.",
+    "options": [
+    "a) net tangible assets",
+    "b) gross tangible assets",
+    "c) net total assets",
+    "d) total assets"
+    ],
+    "answer": 1
+    },
+    {
+    "question": "The higher the debt/equity ratio…",
+    "options": [
+    "a) the lower the operating risk.",
+    "b) the higher the operating risk.",
+    "c) the lower the financial risk.",
+    "d) the higher the financial risk."
+    ],
+    "answer": 4
+    },
+    {
+    "question": "Which of the following indicates management’s efficiency in turning over the company’s goods at a profit?",
+    "options": [
+    "a) gross profit margin",
+    "b) operating profit margin",
+    "c) pre-tax profit margin",
+    "d) net profit margin"
+    ],
+    "answer": 1
+    },
+    {
+    "question": "A company had sales of $5,500,000. Its Cost of Goods Sold was $3,000,000 and it ended the year with $1,000,000 in inventory. Its inventory turnover ratio is…",
+    "options": [
+    "a) 0.33.",
+    "b) 1.8.",
+    "c) 3.0.",
+    "d) 5.5."
+    ],
+    "answer": 3
+    },
+    {
+    "question": "A company earned $3,000,000 before preferred dividend payments. It has 100,000 6% $50 par value preferred shares. There are 5,000,000 authorized common shares and 4,500,000 are issued and outstanding. Its basic earnings per share is…",
+    "options": [
+    "a) $.54.",
+    "b) $.60.",
+    "c) $.67.",
+    "d) $.73."
+    ],
+    "answer": 2
+    },
+    {
+    "question": "A company has 10,000,000 authorized shares, of which 8,000,000 are issued and outstanding. As well, it has 1,500,000 $25 par value convertible preferred shares that are each convertible into 2.5 common shares and callable debt with a par value of $2,000,000. If you are calculating earnings per shares on a fully diluted basis, the number of shares you would use would be…",
+    "options": [
+    "a) 8,000,000",
+    "b) 9,500,000",
+    "c) 11,750,000",
+    "d) 13,000,000"
+    ],
+    "answer": 3
+    },
+    {
+    "question": "A company pays a regular quarterly dividend of $.30 per share and its common shares are currently trading at $30 per share. What is its dividend yield?",
+    "options": [
+    "a) .4%",
+    "b) 1.0%",
+    "c) 2.0%",
+    "d) 4.0%"
+    ],
+    "answer": 4
+    },
+    {
+    "question": "There are two companies that operate in the same industry. Both companies have similar growth prospects. If Company A has a P/E of 10 and Company B has a P/E of 12, you would…",
+    "options": [
+    "a) buy the bigger of the two companies.",
+    "b) buy Company A because it has the lower P/E.",
+    "c) buy Company B because it has the higher P/E.",
+    "d) require more information before you make an investment decision."
+    ],
+    "answer": 4
+    },
+    {
+    "question": "Which of the following service (or services) assign ratings to Canadian preferred shares?",
+    "options": [
+    "a) DBRS only",
+    "b) Standard & Poor’s only",
+    "c) DBRS and Standard & Poor’s Rating Service",
+    "d) There are no services that assign ratings to Canadian preferred shares."
+    ],
+    "answer": 3
+    },
+    {
+        "question": "Someone who believes in the random walk theory would agree with all of the following statements except…",
+        "options": [
+            "a) Price changes are random.",
+            "b) Technical analysis is a waste of time.",
+            "c) You can predict the future by understanding the past.",
+            "d) New information about a stock is disseminated randomly over time."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the main problem with large government debt?",
+        "options": [
+            "a) It restricts fiscal policy options.",
+            "b) It restricts monetary policy options.",
+            "c) It restricts both fiscal and monetary policy options.",
+            "d) It reduces the incentive for consumers to spend money."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A year ago, the yield on the one-year note 4% while the yield on the thirty-year bond was 8%. Today, the yield on the one-year note has increased to 5% while the yield on the ten-year bond has fallen to 6.5%. You would conclude…",
+        "options": [
+            "a) That the yield curve is tilting and this is bullish for the equity markets.",
+            "b) That the yield curve is inverted and this is bearish for the equity markets.",
+            "c) That the bond market is confused and the economy should contract sharply in the near term.",
+            "d) That the bond market is confused but the economy should experience hyper-growth over the long run."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are examining a company that has a 5% market share in an industry where there are four other major competitors. You would conclude that its best long-term competitive strategy would be to…",
+        "options": [
+            "a) Exit the business.",
+            "b) Compete on price.",
+            "c) Establish itself as the low-cost producer.",
+            "d) Make a product that has real or perceived differences from existing products."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "All of the following are one of Michael Porter’s five basic competitive forces that determine the attractiveness of an industry except…",
+        "options": [
+            "a) The potential for pressure from substitute products.",
+            "b) The extent of government regulation of the industry.",
+            "c) The ease of entry for new competitors to the industry.",
+            "d) The extent to which suppliers can pressure industry members."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The two broadest industry classifications are…",
+        "options": [
+            "a) Mature and growth.",
+            "b) Cyclical and defensive.",
+            "c) Low tech and high tech.",
+            "d) Blue chip and speculative."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An automotive company like General Motors is an example of a(n)….",
+        "options": [
+            "a) Defensive company.",
+            "b) Industrial cyclical company.",
+            "c) Consumer cyclical company.",
+            "d) Commodity basic cyclical company."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A company in the marketplace will pay a $1.00 annualized dividend in the coming year and those dividends have a projected long-term growth rate of 6%. The required return on capital is 9% and inflation is running at 2%. The security is currently trading at $25 in the marketplace. You would recommend…",
+        "options": [
+            "a) Buying the security because it is below the fair market value of $30.00 which the dividend discount model suggests.",
+            "b) Buying the security because it is below the fair market value of $33.33 which the dividend discount model suggests.",
+            "c) Buying the security because its growth rate and inflation total 8% which is less than the 9% required return on capital.",
+            "d) Not buying the security because its growth rate and inflation total 8% which is less than the 9% required return on capital."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A company is projected to make $5.25 in earnings per share and has a payout ratio of 50%. Its long-term growth rate is 5%. If an investor requires a 10% return on risk capital, what is its price-earnings ratio?",
+        "options": [
+            "a) 5.0",
+            "b) 7.5",
+            "c) 10.0",
+            "d) Insufficient information"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You are examining two companies that operate in the same industry. Company One has a P/E ratio of 10 and Company Two has a P/E ratio of 20. The most likely explanation for this difference is that…",
+        "options": [
+            "a) Company One has less debt in its capital structure.",
+            "b) Company Two has less debt in its capital structure.",
+            "c) Company One has a higher projected growth rate of earnings.",
+            "d) Company Two has a higher projected growth rate of earnings."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Support levels are established when…",
+        "options": [
+            "a) Demand exceeds supply and prices begin to fall.",
+            "b) Demand exceeds supply and prices begin to rise.",
+            "c) Supply exceeds demand and prices begin to fall.",
+            "d) Supply exceeds demand and prices begin to rise."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You are given the following information about the weekly closes of a particular security:\nWeek One: $20.00\nWeek Two: $21.25\nWeek Three: $19.50\nWeek Four: $20.50\nAt the end of Week Five, the security in question closes at $20.75. Its four week moving average is…",
+        "options": [
+            "a) $20.31.",
+            "b) $20.35.",
+            "c) $20.40.",
+            "d) $20.50."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "You are studying a chart and see that the moving average line is breaking the daily price line from above on heavy volume. A technical analyst would most likely…",
+        "options": [
+            "a) Buy the security.",
+            "b) Sell the security.",
+            "c) Hold the security.",
+            "d) Technical analysts do not study charts before making investment decisions."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The contrarian investor is least likely to believe that…",
+        "options": [
+            "a) An investor should move in the same direction as the majority.",
+            "b) An investor should pay attention to what the majority of investors are doing.",
+            "c) If the vast majority of investors are bearish, it is reasonable to assume that the market will crash.",
+            "d) If the vast majority of investors are bullish, there is not enough buying power to push the market higher."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An analyst is studying a company and she notices that its revenues increased by 12% in the past year. Which of the following would be the least favourable explanation?",
+        "options": [
+            "a) There was a strike at a major competitor.",
+            "b) The company expanded into a new geographic market.",
+            "c) The company engaged in aggressive advertising and promotion.",
+            "d) There was a gain in market share at the expense of competitors."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The major difference between the working capital ratio and acid test ratio is that…",
+        "options": [
+            "a) The working capital ratio is a liquidity ratio and the acid test ratio is a risk analysis ratio.",
+            "b) The working capital ratio is a risk analysis ratio and the acid test ratio is a liquidity ratio.",
+            "c) The working capital ratio considers all current assets relative to current liabilities while the acid test ratio excludes inventories.",
+            "d) There is no difference between the working capital ratio and acid test ratio."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following type of company would be “allowed” to have the lowest interest coverage ratio?",
+        "options": [
+            "a) Retail",
+            "b) Utility",
+            "c) Cyclical",
+            "d) Speculative"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A company earned $6,250,000 before preferred dividend payments. It has 50,000 6% $50 par value preferred shares that are currently trading at $52. There are 5,000,000 authorized common shares and 4,500,000 are issued and outstanding. Its basic earnings per share is…",
+        "options": [
+            "a) $1.22.",
+            "b) $1.25.",
+            "c) $1.36.",
+            "d) $1.39."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "P/E ratios tend to increase…",
+        "options": [
+            "a) In a rising stock market or with rising earnings.",
+            "b) In a falling stock market or with rising earnings.",
+            "c) In a rising stock market or with falling earnings.",
+            "d) In a falling stock market or with falling earnings."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The investment quality assessment of preferred shares is least likely to hinge on which of the following questions?",
+        "options": [
+            "a) Are the preferred shares cumulative or non-cumulative?",
+            "b) Is there an adequate cushion of equity behind each preferred share?",
+            "c) Do the company’s earnings provide ample coverage for preferred dividends?",
+            "d) For how many years has the company paid dividends without interruption?"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the least reasonable explanation why Raptern’s net profit margin is increasing while its operating profit margin is flat?",
+        "options": [
+            "a) Corporate tax rates have been cut over this period of time.",
+            "b) Raptern has been paying down debt over these two years.",
+            "c) Raptern has been re-financing its debt to pay a lower rate of interest.",
+            "d) Raptern is enjoying economies of scale in its manufacturing facilities."
+        ],
+        "answer": "4",
+        "pic" : true
+    },
+    {
+        "question": "Which of the following is the most reasonable explanation why Nickerback’s operating profit margin is increasing over this period of time?",
+        "options": [
+            "a) The company has been cutting prices.",
+            "b) The company has been increasing market share.",
+            "c) The company has been reducing its marketing expenditures.",
+            "d) The company has been enjoying the benefit of paying lower income tax rates."
+        ],
+        "answer": "3",
+        "pic" : true
+    },
+    {
+        "question": "What is the most reasonable explanation why Raptern’s return on equity has been growing much more rapidly than its EPS over this period of time?",
+        "options": [
+            "a) The company has become much more profitable.",
+            "b) The company has been aggressively buying back shares.",
+            "c) The company has eliminated its dividend in order to conserve cash.",
+            "d) The company has been issuing new debt securities to finance its growth."
+        ],
+        "answer": "2",
+        "pic" : true
+    },
+    {
+        "question": "Assuming that the two companies operate in similar markets, which of the following is least likely?",
+        "options": [
+            "a) Raptern has more debt in its capital structure.",
+            "b) Nickerback’s common shares cost less than Raptern’s common shares.",
+            "c) Raptern’s sales are lower than Nickerback’s.",
+            "d) Nickerback has been in business a longer period of time than Raptern."
+        ],
+        "answer": "1",
+        "pic" : true
+    },
+    {
+        "question": "With respect to the use of ratios in analyzing companies, you would be most likely to agree that…",
+        "options": [
+            "a) One ratio alone tells the investor a great deal.",
+            "b) Ratios alone are not proof of present or future profitability.",
+            "c) The significance of any ratio is the same for all companies.",
+            "d) An unsatisfactory ratio signals unfavourable conditions and there is no need to investigate further."
+        ],
+        "answer": "2",
+        "pic" : true
+    }
+    ]
+    }
+    
+    
+
+   

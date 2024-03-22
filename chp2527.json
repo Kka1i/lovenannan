@@ -1,0 +1,505 @@
+{
+    "questions": [
+        {
+            "question": "With respect to tax minimization, with which statement would you agree?",
+            "options": [
+                "a) Tax evasion is condoned by tax authorities.",
+                "b) Full utilization of non-allowable deductions is condoned by tax authorities.",
+                "c) When properly handled, income splitting with family members is an acceptable tactic.",
+                "d) There are no circumstances under which postponement of receiving income is allowable."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not true with respect to the “taxation year” in Canada?",
+            "options": [
+                "a) All individuals must use the calendar year as their tax year.",
+                "b) Corporations may choose any fiscal year, as long as it is consistent.",
+                "c) Corporations may not change their fiscal year under any circumstances.",
+                "d) All of the above are true."
+            ],
+            "answer": "3"
+        }
+        ,
+        {
+            "question": "An investor had an average tax rate of 25% and a marginal tax rate of 35% in 2013 when her income was $50,000. If her income increased by 10% in 2014, how much tax would she have to pay for that fiscal year?",
+            "options": [
+                "a) $ 1,750",
+                "b) $13,750",
+                "c) $14,250",
+                "d) $19,250"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchased 100 shares in 2001 when Nortel was $100 per share. In 2003, he purchased an additional 300@ $25 per share, and then another 2,000 @$1.00 per share in 2005. In 2006, Nortel executed a 1 for 10 consolidation. What was the cost base of his shares?",
+            "options": [
+                "a) $ 8.13",
+                "b) $42.33",
+                "c) $51.50",
+                "d) $81.25"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investor purchased a $1,000 face value 6% convertible debenture at 95. When the trade settled, she owed the seller another $120 worth of accrued interest. If the conversion terms are 50 shares for each $1,000 face value, then the adjusted cost base of the shares upon conversion would be…",
+            "options": [
+                "a) $19.00.",
+                "b) $20.00.",
+                "c) $21.40.",
+                "d) $22.40."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "On February 1st 2016, an investor purchased 1,000 shares of ABC Security at $20.00 per share. Five days later, he sold them at $18.00. Six months later, he re-entered the market and bought 1,000 shares of ABC Security at $12.00 per share. Which of the following would best describe the tax treatment of these transactions?",
+            "options": [
+                "a) The investor would be able to claim a capital loss of $2,000 for 2016 and would have a cost base on his shares of $12.00.",
+                "b) The investor would not be able to claim a capital loss of $2,000 for 2016 and would have a cost base on his shares of $12.00.",
+                "c) The investor would be able to either claim a capital loss of $2,000 for 2016 or could have a cost base on his shares of $10.00.",
+                "d) The investor would be able to either claim a capital loss of $2,000 for 2016 or could have a cost base on his shares of $14.00."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased a security on December 22nd and would like to sell it five days later to claim a tax loss for that calendar year. This would be acceptable as long as…",
+            "options": [
+                "a) the shares were sold before the end of the year.",
+                "b) the trade settled before the end of the year and the shares were not subsequently re-purchased within that year.",
+                "c) the trade settled before the end of the year and the shares were not subsequently re-purchased within thirty days.",
+                "d) Shares must be held a minimum of thirty days before they can be sold in order to claim a tax loss."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following type or types of pension plans is most similar to an RRSP plan with respect to its risk-return characteristics for the holder?",
+            "options": [
+                "a) defined benefit plans",
+                "b) defined contribution plans",
+                "c) defined benefit plans and money purchase plans",
+                "d) defined benefit plans and defined contribution plans"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In order to calculate the maximum allowable contribution to an RRSP in a given year, you must take the…",
+            "options": [
+                "a) lesser of 15% of the previous year’s earned income or the dollar limit for that year.",
+                "b) lesser of 18% of the previous year’s earned income or the dollar limit for that year.",
+                "c) greater of 15% of the previous year’s earned income or the dollar limit for that year.",
+                "d) greater of 18% of the previous year’s earned income or the dollar limit for that year."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Julia Sung had the following income in 2016: • $50,000 salary • $10,000 bonuses • $12,000 gross rental income, $5,000 net rental income • $5,000 interest income • $3,000 capital losses Assuming no carry forwards, what is her 2016 RRSP contribution limit?",
+            "options": [
+                "a) $10,800",
+                "b) $11,700",
+                "c) $12,060",
+                "d) $13,320"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased 1,000 shares of ABC Securities for $2 each, and 500 shares of DEF Securities for $2.50 in his trading account. When both ABC Securities and DEF Securities were each $2.25 per share, he contributed his holdings of both into his RRSP plan. What are the tax implications of these contributions?",
+            "options": [
+                "a) None.",
+                "b) There is a capital gain of $125.",
+                "c) There is a capital gain of $250.",
+                "d) There is a capital gain of $500."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not an option for the RRSP holders when they reach the age of 71?",
+            "options": [
+                "a) Purchase a life annuity",
+                "b) Transfer the proceeds to a RRIF",
+                "c) Take out all funds as a lump sum",
+                "d) Keep the funds in the RRSP plan"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is true with respect to a tax-free savings account (TFSA)?",
+            "options": [
+                "a) Contributions to a TFSA are not tax-deductible.",
+                "b) Unlike an RRSP, there are no contribution limits to a TFSA.",
+                "c) You must have earned income to contribute to a TSFA in any year.",
+                "d) There are limits on how much can be withdrawn from the TFSA in any single year."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A parent sets up an RESP for his child, and by the time she is ready to attend university, there is $75,000 in it. However, because the child receives a full scholarship, there is no need to pay tuition and other educational expenses. Which of the following best describes the options available to the parent?",
+            "options": [
+                "a) The parent can transfer the full amount of $75,000 into his RRSP.",
+                "b) The parent can transfer $50,000 into his RRSP.",
+                "c) The parent can transfer $50,000 into his RRSP, provided there is available contribution room.",
+                "d) The parent must withdraw the full amount immediately, paying a penalty tax of 20%."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Attribution rules mean that…",
+            "options": [
+                "a) tax consequences of income-producing assets may be passed back to the taxpayer.",
+                "b) if income-splitting between spouses is not properly achieved, there may be large tax penalties.",
+                "c) it is not possible for a taxpayer to discharge directly the debts of a spouse, a designated minor or non-arm’s length individual.",
+                "d) if investments are transferred by way of gift, then the giver of the asset is responsible for paying taxes on income earned by those investment."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "If the initial interview is successful from both the advisor’s and client’s viewpoint, the advisor should…",
+            "options": [
+                "a) ask for referrals.",
+                "b) send the client a thank you letter.",
+                "c) formalize the relationship with a formal contract.",
+                "d) immediately begin trading in order not to miss market opportunities."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "With respect to personal data…",
+            "options": [
+                "a) the investment advisor should not ask for sensitive information such as health and employment status.",
+                "b) the investment advisor should not ask for sensitive information such as health and employment status, but use it if it is offered.",
+                "c) the investment advisor should not ask for sensitive information such as health and employment status, and decline to hear it if it is offered.",
+                "d) information such as age, marital status, health and employment income is essential to prepare a proper financial plan."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "During the mid-earning years, most people tend to focus on…",
+            "options": [
+                "a) growth and income.",
+                "b) growth and tax minimization.",
+                "c) income and tax minimization.",
+                "d) It is not possible to generalize."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Investment advisor Ronald Chung is working at his desk when one of his biggest clients, a sophisticated investor with a $2 million portfolio, calls in and asks to place a trade for a very risk penny stock that trades on the TSX Venture Exchange. Mr. Chung does not think this is a suitable investment. According to the Code of Ethics…",
+            "options": [
+                "a) Mr. Chung must accept the order.",
+                "b) Mr. Chung must not accept the order.",
+                "c) Mr. Chung must provide appropriate cautionary advice.",
+                "d) Mr. Chung should consult with his supervisor and have his supervisor speak with the client."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Investment advisor Greg Gilroy has been working with Paul Travis for the past twenty years and they have a close friendship. One day, Travis calls Gilroy and asks him for a personal loan of $25,000 so that he doesn’t have to liquidate securities in a bear market. The Code of Ethics…",
+            "options": [
+                "a) require Gilroy to make that loan.",
+                "b) recommend that Gilroy make that loan.",
+                "c) forbid Gilroy from making that loan.",
+                "d) recommend against making that loan."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investment advisor, Paula Kozlovsky manages the portfolio of Jonathan Quinn. One day, the RCMP contact Ms. Kozlovsky and ask her to disclose his recent trading history. According to Standard E, Confidentiality…",
+            "options": [
+                "a) Ms. Kozlovsky cannot disclose this information.",
+                "b) Ms. Kozlovsky cannot disclose this information unless she gets Mr. Quinn’s permission to do so.",
+                "c) Ms. Kozlovsky cannot disclose this information unless she is convinced that Mr. Quinn is guilty of come crime.",
+                "d) Ms. Kozlovsky must disclose this information, assuming that the RCMP have the proper authority."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following functions is not associated with the Front Office of a sell-side trading firm?",
+            "options": [
+                "a) Research",
+                "b) Sales and trading",
+                "c) Corporate finance",
+                "d) Legal and compliance"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Prime brokerage services used primarily by hedge funds are least likely to include…",
+            "options": [
+                "a) research.",
+                "b) security lending.",
+                "c) portfolio accounting.",
+                "d) margin and portfolio financing."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The goal of the agency trader is to fill orders…",
+            "options": [
+                "a) and minimize commissions.",
+                "b) and maximize commissions.",
+                "c) with minimal market impact.",
+                "d) with maximum market impact."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Liability traders are generally assigned…",
+            "options": [
+                "a) specific clients.",
+                "b) specific markets.",
+                "c) specific sectors of the market.",
+                "d) proactive capital rather than reactive capital."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "All of the following are legitimate tax avoidance strategies except…",
+            "options": [
+                "a) postponing the receipt of income.",
+                "b) full utilization of non-allowable deductions.",
+                "c) selecting investments that provide a better after-tax yield.",
+                "d) splitting income with other family members under prescribed rules."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor is a salaried employee at George Brown College. It costs him about $1,000 per year to ride the TTC to work – otherwise he would never use the public transit system. He needs advice as to whether he can deduct this expense for tax purposes. The best explanation is that…",
+            "options": [
+                "a) he cannot because employment income is taxed on a net receipt basis.",
+                "b) he cannot because employment income is taxed on a gross receipt basis.",
+                "c) he can because this is considered a business expense.",
+                "d) he can as long as he saves the transfers and documents the expenditures carefully."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Using the chart reproduced below, calculate the Federal Income Tax payable for an investor who makes $105,000 in earned income. PLEASE REFER TO THE FOLLOWING INCOME TAX RATE CHART FOR 2014",
+            "options": [
+                "a) $20,707",
+                "b) $23,642",
+                "c) $25,891",
+                "d) $27,300"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor received a dividend from a taxable Canadian corporation in the amount of $250.00. What would be the i) gross-up and ii) dividend tax credit?",
+            "options": [
+                "a) i) $95.00 and ii) $37.55",
+                "b) i) $95.00 and ii) $51.82",
+                "c) i) $345.00 and ii) $37.55",
+                "d) i) $345.00 and ii) $51.82"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor has both a large investment and an RRSP account. His administration fee on the RRSP is $125 and he is considering taking out a loan to make this year’s RRSP contribution. In order to minimize his tax burden, the best recommendation would be for her to…",
+            "options": [
+                "a) claim the $125 tax deduction for the RRSP administration fee and take out a $10,000 RRSP loan.",
+                "b) claim the $125 tax deduction for the RRSP administration fee and take out a $10,000 loan applied against either the RRSP or investment account and write off the interest expense against gains in either account.",
+                "c) take out a $10,000 loan applied against either the RRSP or investment account and write off the interest expense against gains in either account.",
+                "d) take out a $10,000 loan applied against the investment account and write off the interest expense against gains in the investment account."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investor purchased 500 shares of ABC security at $12 per share in 2012 and a commission of 1.5% of the purchase price was charged. In 2014, when the shares were $12.50 per share, the 500 were sold and a flat commission charge of $29 was applied. What is the taxable capital gain (assuming a 50% inclusion rate)?",
+            "options": [
+                "a) $ 65.50",
+                "b) $ 94.50",
+                "c) $125.00",
+                "d) $131.00"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased 300 shares of CISCO systems in 2000 at $60. In 2001 he bought another 200 at $35 and finally another 400 shares at $18 in 2002. In 2014, he sold 200 shares at $24 per share. What is the adjusted cost base of the shares that he sold?",
+            "options": [
+                "a) $18.00",
+                "b) $35.78",
+                "c) $37.67",
+                "d) $60.00"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor bought 100 shares of XYZ Company at $20 in 2010. A year later, she bought a XYZ convertible debenture with a face value of $1,000 at par, convertible into 25 common shares of XYZ. Subsequently, she exercised the conversion option. What is the adjusted cost base of her 125 XYZ shares?",
+            "options": [
+                "a) $20",
+                "b) $24",
+                "c) $30",
+                "d) Insufficient information"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The special type of loss that results from the sale and purchase of the same security within a limited time frame where the loss is not tax deductible as a capital loss is known as a(n)…",
+            "options": [
+                "a) zero-tax loss.",
+                "b) accrued loss.",
+                "c) deferred loss.",
+                "d) superficial loss."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In a particular year, December 31st falls on a Tuesday. The last day that an investor can sell her shares and claim a capital loss is…",
+            "options": [
+                "a) Thursday December 26.",
+                "b) Friday December 27.",
+                "c) Monday December 30.",
+                "d) Tuesday December 31."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An individual works at Bombardier where there are a number of employee benefit plans. He wants to know his RRSP contribution limit for a given year. In order to calculate how much he can contribute to his RRSP, it is necessary to…",
+            "options": [
+                "a) add only his pension plan contributions to his RRSP limit.",
+                "b) add his pension plan contributions and deferred profit sharing plan contributions to his RRSP limit.",
+                "c) deduct his pension plan contributions and deferred profit sharing plan contributions from his RRSP limit.",
+                "d) do nothing. RRSP contribution limits are NOT affected by pension contributions or deferred profit sharing plan contributions."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor has $50,000 in his RRSP plan. He wants to take out $10,000 for a dream vacation. Which of the following best describes the implications of this decision?",
+            "options": [
+                "a) He would not be allowed to withdraw the money under any circumstances.",
+                "b) He would not be allowed to withdraw the money unless Revenue Canada made a special exemption for him.",
+                "c) He would be allowed to withdraw the money but the growth portion would be taxed at his highest marginal rate.",
+                "d) He would be allowed to withdrawn the money but the entire amount would be taxed at his highest marginal rate."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In the year 2014, Mr. Wilson earned $40,000 in base salary and $10,000 in commission income from his sales job at the bank. He earned net rental income of $5,000 and interest income of $1,500. Half of that interest income was earned inside his RRSP account. He also received $200 in royalty payments for an article he published in the newspaper. For 2014, his RRSP contribution limit would be…",
+            "options": [
+                "a) $ 9,000.",
+                "b) $ 9,936.",
+                "c) $10,071.",
+                "d) $10,206."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor earned $100,000 in 2014. His wife earned a similar amount and contributed the maximum to her spousal RRSP. Earlier in the year he had contributed $5,000 to his own RRSP. Which of the following best describes his options with his remaining contribution room?",
+            "options": [
+                "a) He can only contribute another $13,000 into his RRSP.",
+                "b) He can contribute another $13,000 into his RRSP and $18,000 into his wife’s spousal RRSP.",
+                "c) He can contribute another $13,000 into either his RRSP or into his wife’s spousal plan.",
+                "d) He can contribute $13,000 in his wife’s spousal plan."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not true of RESPs?",
+            "options": [
+                "a) Contributions into the plan are tax-deductible.",
+                "b) The lifetime maximum contribution per beneficiary is $50,000.",
+                "c) There are two types of RESPs: pooled plans and self-directed plans.",
+                "d) The Canada Education Savings Grant (CESG) provides matching grants to prescribed limits."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Spousal RRSPs are most closely associated with the tax planning strategy of…",
+            "options": [
+                "a) income splitting.",
+                "b) discharging debts.",
+                "c) transferring income.",
+                "d) gifting to family members."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "All of the following are objectives of a financial plan except…",
+            "options": [
+                "a) it must be complex.",
+                "b) it must be achievable.",
+                "c) it must accommodate small changes in lifestyle.",
+                "d) it must provide for some luxuries as well as necessities."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investment advisor hears on the radio that one his client’s largest holdings is under investigation by the SEC for not fully disclosing its financial difficulties. He expects the stock to fall a great deal when market opens. The investment advisor’s best course of action is to…",
+            "options": [
+                "a) not call the client because it will upset him.",
+                "b) not call the client because it’s better the if the client hears it from media reports himself.",
+                "c) call the client and remind him of all the good trades that have been made for him in the past.",
+                "d) call the client and try to explain in simple terms what is happening and what it means to the client."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Most people who are aged from 25 – 35 are in their early earning years and if fund are available, the primary investment objective is generally…",
+            "options": [
+                "a) safety.",
+                "b) growth.",
+                "c) income.",
+                "d) People aged from 25 – 35 are in their mid-earning years."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is at the base of the financial planning pyramid?",
+            "options": [
+                "a) RRSPs",
+                "b) Insurance",
+                "c) Treasury bills",
+                "d) Government of Canada bonds"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "If a registrant acquires material non-public information…",
+            "options": [
+                "a) the registrant is required to act on it to benefit clients.",
+                "b) the registrant is required to act on it to benefit clients first, then may themselves act on it.",
+                "c) the registrant is required to act on it to benefit clients, and required to themselves to act on it subsequently.",
+                "d) the registrant is required neither to communicate the information, nor to act upon it."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Is it permissible for registrants to use knowledge of clients’ orders as a basis for recommendations to other clients?",
+            "options": [
+                "a) Yes.",
+                "b) Yes, as long as the client has a successful track record.",
+                "c) Yes, as long as the client account is a fee-based account.",
+                "d) No."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is not true about soft dollar arrangements?",
+            "options": [
+                "a) They are arrangements where an institutional client purchases services via commission dollars rather than an invoice for the goods or services.",
+                "b) Soft dollar arrangement can only be used for order execution and research services.",
+                "c) The institutional client must ensure that all soft dollar arrangements benefit the client and be disclosed to the client.",
+                "d) Soft-dollar commissions are more prevalent in fixed-income transactions than in equity transactions."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The primary role and responsibility of equity market makers is to…",
+            "options": [
+                "a) trade profitably for the firm.",
+                "b) provide a constant, two-sided market.",
+                "c) ensure that trading in their own accounts is reasonable.",
+                "d) assist others in the execution of their orders with respect to their stock of responsibility (SOR)."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following parties is most likely to use algorithmic trading?",
+            "options": [
+                "a) Buy-side retail investors.",
+                "b) Sell-side retail investors.",
+                "c) Buy-side institutional investors.",
+                "d) Sell-side institutional investors."
+            ],
+            "answer": "3"
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "questions": [
+        {
+            "question": "A tilting yield curve generally means that…",
+            "options": [
+                "a) both long term bonds and stocks fall in value.",
+                "b) both long term bonds and stocks rise in value.",
+                "c) long term bonds fall in value and stocks rise in value.",
+                "d) long term bonds rise in value and stocks fall in value."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The relationship between inflation and interest rates is best described as…",
+            "options": [
+                "a) direct",
+                "b) indirect",
+                "c) inverse",
+                "d) random"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "It is the midst of a recession. You are examining a company whose decline in earnings is less than that of normal companies. You would conclude that it is in its __________ phase.",
+            "options": [
+                "a) initial growth",
+                "b) growth",
+                "c) mature",
+                "d) declining"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "You are a Canadian equity analyst and believe that the Canadian dollar that is currently at $.86 US will trade at par within five years. You would conclude that for American industries that import Canadian raw materials and sell in the US market…",
+            "options": [
+                "a) the appreciating Canadian dollar will be good for these American companies and the Canadian companies that supply them.",
+                "b) the appreciating Canadian dollar will be bad for these American companies and the Canadian companies that supply them.",
+                "c) the depreciating Canadian dollar will be good for these American companies and the Canadian companies that supply them.",
+                "d) the depreciating Canadian dollar will be bad for these American companies and the Canadian companies that supply them."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A blue-chip company…",
+            "options": [
+                "a) maintains earnings and dividends through all phases of the business cycle.",
+                "b) increase its dividends even when the business cycle is in the contraction phase.",
+                "c) tends not to pay dividends, instead re-investing the earnings to grow the business.",
+                "d) in Canada tends to be large international exporters of commodities."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following securities leverages a Balance Sheet?",
+            "options": [
+                "a) Bonds only",
+                "b) Bonds and debentures only",
+                "c) Bonds, debentures and preferred shares only",
+                "d) Bonds, debentures, preferred shares and common shares"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "If according to trend ratio, a company’s EPS increased to 145 over its base year, you would understand that…",
+            "options": [
+                "a) Its earnings per share increased by $1.45",
+                "b) Its earnings per share increased by 145%",
+                "c) Its earnings per share increased by $.45",
+                "d) Its earnings per share increased by 45%"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is the proper formulation for operating cash flow ratio?",
+            "options": [
+                "a) Cash flow from operations/Current liabilities",
+                "b) Cash flow from operations/Total liabilities",
+                "c) Cash flow/Current Liabiltilities",
+                "d) Cash flow/Cost of Goods Sold"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Technical analysis is based on all of the following assumptions except:",
+            "options": [
+                "a) All influences on market action are automatically accounted for in price activity.",
+                "b) Prices tend to move in trends and those trends persist for fairly long periods of time.",
+                "c) The future repeats the past.",
+                "d) Equity markets are efficient in the informational sense only."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The most popular way of measuring market breadth is with…",
+            "options": [
+                "a) the advance-decline line.",
+                "b) new highs and new lows.",
+                "c) Elliott Wave Theory.",
+                "d) moving average convergence-divergence (MACD)."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased a security on January 1st 2003 for $18.00 per share. It has a dividend yield of 4%. It paid two regular quarterly dividends then split two for one. The investor then sold her entire position when it was $10.00 per share on a post-split basis. What is her rate of return?",
+            "options": [],
+            "answer": ""
+        },
+        {
+            "question": "The Canadian government issues a Real Return bond. Which of the following risk(s) would an investor be exposed to?",
+            "options": [
+                "a) Liquidity risk",
+                "b) Inflation rate risk and liquidity risk",
+                "c) Interest rate risk and inflation rate risk",
+                "d) Default risk, interest rate risk, and liquidity risk"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following best describes the relationship between systematic and non-systematic risk?",
+            "options": [
+                "a) Adding securities to a portfolio reduces both systematic and non-systematic risk",
+                "b) Adding securities to a portfolio reduces systematic risk and does not affect non-systematic risk",
+                "c) Adding securities to a portfolio does not affect systematic risk and reduces non-systematic risk",
+                "d) Adding securities to a portfolio does not affect either systematic or non-systematic risk"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Ms. H. is a 60 year old Finance Professor at the University of Toronto with a reasonably high tolerance for risk. An appropriate asset allocation for her would be…",
+            "options": [
+                "a) 0% cash, 30% bonds, 70% equities",
+                "b) 10% cash, 10% bonds, 80% equities",
+                "c) 0% cash, 40% bonds, 60% equities",
+                "d) 20% cash, 40% bonds, 40% equities"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A portfolio manager is looking at three securities: A has an expected return of 10% and standard deviation of 15%. B has an expected return of 8% and standard deviation of 12%. C has an expected return of 6% and standard deviation of 10%. The correlation between A & B is -.8. The correlation between A & C is .9 The correlation between B & C is 1.0. Which of the following portfolios makes most sense if the manager is only concerned with minimizing risk?",
+            "options": [
+                "a) 100% C",
+                "b) 50% A & 50% C",
+                "c) 50%A & 50% B",
+                "d) 50% B & 50% C"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A security has a beta of 1.4. The market is expected to return 12% and the riskfree rate is 6%. After you examine the security, you expect it to appreciate by 15%. According to the CAPM model…",
+            "options": [
+                "a) this security has an alpha of –6.8%",
+                "b) this security has an alpha of -1.0%",
+                "c) this security has an alpha of .6%",
+                "d) this security has an alpha of 3%"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A portfolio manager is investing for a pension plan. He would….",
+            "options": [
+                "a) be indifferent whether the gains are in the form of interest income, dividends, or capital gains.",
+                "b) prefer that the gains be in the form of interest income rather than capital gains.",
+                "c) prefer that the gains be in the form of capital gains rather than interest income.",
+                "d) prefer that the gains be in the form of dividends and interest income rather than capital gains."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is not considered a fixed income product?",
+            "options": [
+                "a) mortgages",
+                "b) five year corporate debentures",
+                "c) straight preferred shares",
+                "d) 180 day t-bills"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Bottom-up investing is associated with…",
+            "options": [
+                "a) growth managers only.",
+                "b) value managers only.",
+                "c) growth and value managers.",
+                "d) None of the above."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "__________ is a portfolio management technique that involves adjusting the asset mix to systematically re-balance the portfolio back to its long-term target.",
+            "options": [
+                "a) Strategic asset allocation",
+                "b) Tactical asset allocation",
+                "c) Insured asset allocation",
+                "d) Dynamic asset allocation"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The reason that the trust structure for mutual funds is preferred in Canada is because…",
+            "options": [
+                "a) the trust structure allows the fund manager to collect MERs.",
+                "b) the trust structure enables the fund itself to avoid taxation.",
+                "c) the trust structure guarantees investors the right of redemption.",
+                "d) the trust structure means that mutual funds cannot go bankrupt."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following is true?",
+            "options": [
+                "a) The custodian of a mutual fund provides day-to-day supervision of the mutual fund.",
+                "b) The directors of a mutual fund corporation and the trustees of a mutual fund trust hold the ultimate responsibility for the activities of the fund.",
+                "c) The distributors collect money received from the fund’s buyers and from portfolio income.",
+                "d) Mutual funds may not be set up as federal or provincial corporations."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A mutual fund has a NAVPS of $14.00, a Sales Charge of 5%, and an MER of 3%. What is its offering or purchase price?",
+            "options": [
+                "a) $14.74",
+                "b) $14.70",
+                "c) $14.00",
+                "d) $13.30"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is not true?",
+            "options": [
+                "a) The Management Expense Ratio is always equal to or greater than the Management Fee",
+                "b) The levels of Management Fees varies widely depending on the type of fund",
+                "c) The Management Fee is included in the Management Expense Ratio",
+                "d) There is no relationship between the Management Fee and the Management Expense Ratio"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Under a fixed-dollar withdrawal plan…",
+            "options": [
+                "a) the plan cannot grow in value.",
+                "b) the plan can only grow in value if the withdrawals exceed the growth in the plan.",
+                "c) the plan can only grow in value if the growth in the plan exceeds the withdrawals.",
+                "d) the plan is guaranteed to last for a certain period of time"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Mutual funds issue a _____ while segregated funds issue a(n) _____.",
+            "options": [
+                "a) prospectus, simplified prospectus",
+                "b) prospectus, information folder",
+                "c) prospectus, simplified information folder",
+                "d) simplified prospectus, information folder"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The largest group of mutual funds, based on total assets, is…",
+            "options": [
+                "a) money market funds",
+                "b) bond funds",
+                "c) equity funds",
+                "d) speciality funds"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not a benefit of indexing?",
+            "options": [
+                "a) It eliminates non-systematic risk.",
+                "b) It tends to lower management fees.",
+                "c) It eliminates systematic risk.",
+                "d) It eliminates the need to conduct individual security analysis."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Ms. X. purchased $20,000 worth of segregated funds that had the maximum protection allowed under provincial government guidelines. Three years later, when the fund was worth $30,000, she sold $3,000 worth of it. What is her new protected amount?",
+            "options": [
+            ],
+            "answer": "27000"
+        },
+        {
+            "question": "A high net worth investor has an average tax rate of 30% and his marginal tax rate is 40%. He puts $3,000 into an LSVCC and contributes it into his RRSP. Effectively, how much does this investment “cost” him?",
+            "options": [
+            ],
+            "answer": "1800"
+        },
+        {
+            "question": "Which of the following is not true with respect to an ETF compared to a mutual fund?",
+            "options": [
+                "a) ETFs do not reduce systematic risk",
+                "b) ETFs provide intra-day liquidity",
+                "c) ETFs cannot be short-sold",
+                "d) ETFs are a form of passive investment"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The two speculative tools that Alfred Jones employed in pioneering hedge funds were….",
+            "options": [
+                "a) leverage and short selling",
+                "b) short-selling and options",
+                "c) short-selling and concentration",
+                "d) leverage and options"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A portfolio manager has three assets in his portfolio. A is 40% of the portfolio and returns 20%. B is 40% of the portfolio and is unchanged. C is 20% of the portfolio and falls 5%. The portfolio’s total return is…",
+            "options": [
+            ],
+            "answer": "7"
+        },
+        {
+            "question": "__________ in the hedge fund industry bet on anticipated movements in the market prices of equity securities, debt securities, currencies and commodities.",
+            "options": [
+                "a) Directional strategies",
+                "b) Event-driven strategies",
+                "c) Relative value strategies",
+                "d) All of the above"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor receives $300 in dividends from a taxable Canadian corporation. Assuming that she is in a 26% tax bracket, what is the tax payable?",
+            "options": [
+            ],
+            "answer": "78"
+        },
+        {
+            "question": "An investor earns $3,000 in interest income and $600 in capital gains. She is in a 40% tax bracket. What is her total tax liability?",
+            "options": [
+            ],
+            "answer": "1140"
+        },
+        {
+            "question": "An investor earns $50,000 in salary, $15,000 in commission, has net rental income of $5,000 and earned $2,000 in interest income. What is his RRSP limit based on this information?",
+            "options": [
+            ],
+            "answer": "15500"
+        },
+        {
+            "question": "All of the following are maturity options available to an RRSP holder when he/she turns 71 except…",
+            "options": [
+                "a) withdrawing the proceeds as a lump sum payment",
+                "b) transferring the proceeds to RRIF",
+                "c) using the proceeds to purchase a fixed term annuity to age 85",
+                "d) rolling over the proceeds into a spousal plan"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Transferring income to family members can trigger…",
+            "options": [
+                "a) attribution rules",
+                "b) tax loss selling",
+                "c) arm’s length transactions",
+                "d) direct discharge of debts"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is true of RESPs?",
+            "options": [
+                "a) Contributions to the plan are tax-deductible",
+                "b) Withdrawals from RESPs are taxed at the marginal rate of the contributor to the plan",
+                "c) The Federal Government provides matching grants up to a minimum of $400 per child per year",
+                "d) RESPs can have more than one beneficiary per plan"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Vale-Inco (a nickel producer) and Weyerhauser (a forest products company) are examples of…",
+            "options": [
+                "a) commodity basic cyclical industries",
+                "b) industrial cyclical industries",
+                "c) industrial growth industries",
+                "d) consumer cyclical industries"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "ABC Security had the following daily closing prices one week: Monday: $42.00 Tuesday: $42.25 Wednesday: $43.30 Thursday: $44.10 Friday: $41.65 A Technical Analyst is looking at the three-day moving averages for Friday’s close compared to Thursday’s close. She sees that it is…",
+            "options": [
+                "a) lower by $.20",
+                "b) lower by $.33",
+                "c) higher by $.33",
+                "d) higher by $.55"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Refer to the previous question. When she looks at her charts, she sees that on Friday the 200 day moving average broke the daily price line from above on light volume. She would interpret this as a signal to…",
+            "options": [
+                "a) buy the security even though the light volume troubles her.",
+                "b) sell the security even though the light volume troubles her.",
+                "c) buy the security and she is encouraged by the light volume.",
+                "d) sell the security and she is encouraged by the light volume."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "If inflation increases and everything else remains constant, this means that…",
+            "options": [
+                "a) real interest rates will fall.",
+                "b) real interest rates will increase.",
+                "c) nominal interest rates will fall.",
+                "d) nominal interest rates will increase."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "If an American investor purchased Canadian company Bombardier’s US$ denominated exchange-traded debentures, he would be exposed to…",
+            "options": [
+                "a) foreign exchange risk and default risk.",
+                "b) liquidity risk and foreign exchange risk.",
+                "c) inflation rate risk and default risk.",
+                "d) foreign exchange risk, default risk, and interest rate risk."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "All of the following types of mutual funds are correctly ranked from lowest risk to highest risk except…",
+            "options": [
+                "a) specialty funds, real estate funds, equity funds, bond funds.",
+                "b) money market funds, bond funds, balanced funds, real estate funds.",
+                "c) balanced funds, dividend funds, equity funds, specialty funds.",
+                "d) mortgage funds, balanced funds, equity funds, specialty funds."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "What is the primary advantage of an indexing strategy for a bond portfolio?",
+            "options": [
+                "a) indexing allows the investor to eliminate systematic risk",
+                "b) the low fees associated with indexing mean higher returns for a given level of risk",
+                "c) indexing allows the investor the benefit of active management and out-performance",
+                "d) the low turnover rate in the portfolio means that there are more opportunities for the manager to add value with his/her selections"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In a segregated fund contract, the beneficiary is the entity or person entitled to receive any maturity or death benefits. Which of the following are true with respect to beneficiaries?",
+            "options": [
+                "i) A revocable beneficiary offers greater flexibility because the contract holder can alter or revoke the beneficiary’s status",
+                "ii) The designation of an irrevocable beneficiary is normally made in the segregated fund contract itself, but it can also be made in the contract holder’s will",
+                "iii) The beneficiary has to be a specific person"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A hedge fund manager has simultaneously gone long the equity markets in the amount of $1,000,000 shorted $800,000 worth of equities. We would say that his leverage is…",
+            "options": [
+                "a) 20%",
+                "b) 25%",
+                "c) 1.25",
+                "d) 1.80"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An individual earned $87,000 in 2006. What is the tax payable?",
+            "options": [
+            ],
+            "answer": "20830"
+        }
+    ]
+}

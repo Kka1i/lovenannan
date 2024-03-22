@@ -1,0 +1,503 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following best describes the difference in management style between managed and structured products?",
+            "options": [
+                "a) Managed products are actively managed and structured products are passively managed.",
+                "b) Managed products are passively managed and structured products are actively managed.",
+                "c) Managed products are either actively or passively managed and structured products are passively managed.",
+                "d) Managed products are actively managed and structured products are either passively or actively managed."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is least likely to be a disadvantage associated with investing in structured products?",
+            "options": [
+                "a) high cost",
+                "b) complexity",
+                "c) lack of transparency",
+                "d) illiquidity of the secondary market"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The fact that a large mutual fund might have a portfolio of 60 to 100 different securities in 15 to 20 industries is most closely associated with the advantage of...",
+            "options": [
+                "a) low-cost.",
+                "b) diversification.",
+                "c) variety of funds.",
+                "d) margin eligibility."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which is the most common structure for mutual funds in Canada?",
+            "options": [
+                "a) open-end trust",
+                "b) closed-end trust",
+                "c) open-end trust deed",
+                "d) unincorporated fund"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is not true with respect to the duties of the fund manager and custodian?",
+            "options": [
+                "a) The custodian is responsible for calculating the fund’s net asset value and preparing the fund’s prospectus.",
+                "b) The manager provides day-to-day supervision of the fund’s investment portfolio.",
+                "c) The custodian sometimes also serves as the fund’s registrar and transfer agent, maintaining records of who owns the fund’s shares.",
+                "d) The manager supervises shareholder or unitholder record-keeping."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A mutual fund has assets of $25,000,000. This includes $2,000,000 in cash and $1,000,000 worth of derivative products. Its liabilities are $500,000. If it has 5,000,000 units outstanding, its NAV is…",
+            "options": [
+                "a) $4.50.",
+                "b) $4.60.",
+                "c) $4.90 .",
+                "d) $5.00."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchased a mutual fund with a NAV of $25 with a front-end load of 3%. What is the offering or purchase price of the fund?",
+            "options": [
+                "a) $24.25",
+                "b) $25.00",
+                "c) $25.75",
+                "d) $25.77"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Refer to Q. #7. Based on the offering or purchase price of the fund, what is the commission based on the NAV?",
+            "options": [
+                "a) 2.99%",
+                "b) 3.08%",
+                "c) 3.18%",
+                "d) Insufficient information"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased a mutual fund with a back-end load that begins at 6% in the first year and declines by 1% annually until is 0% after the sixth year. The charge is based on the NAVPS at the time of redemption. If the units were purchased at $12 and rose to $14 eighteen months later – and then redeemed -- the selling/redemption price would be…",
+            "options": [
+                "a) $11.40.",
+                "b) $12.60 .",
+                "c) $13.16.",
+                "d) $13.30 ."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The annual fee that a mutual fund manager pays to the distributor who sold the fund as long as the client holds the fund is known as the…",
+            "options": [
+                "a) F-class charge.",
+                "b) trailer fee or back-end load.",
+                "c) service fee or front-end load.",
+                "d) trailer fee or service fee."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Switching fees are most likely to occur when…",
+            "options": [
+                "a) an investor stays in the same fund but switches from a back-end load to a front-end load.",
+                "b) an investor stays in the same fund but switches from a front-end load to a back-end load.",
+                "c) an investor exchanges units of one fund for another fund in the same family or fund company.",
+                "d) an investor exchanges units of one fund for another fund in another family or fund company."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following fees are included in the management expense ratio (MER) of a mutual fund?",
+            "options": [
+                "a) Interest charges",
+                "b) Audit and legal fees",
+                "c) Safekeeping and custodial fees",
+                "d) All of the above"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The biggest difference between F-class mutual funds and traditional mutual funds is that…",
+            "options": [
+                "a) F-class funds have lower MERs.",
+                "b) F-class funds have higher MERs.",
+                "c) F-class funds hold fewer securities.",
+                "d) F-class funds are passively managed."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Jonathan Talbert is a high net worth Canadian with an average tax rate of 35% and marginal tax rate of 40%. He contributes $6,000 into his RRSP, then purchases that much worth of LSVCCs whose provincial tax credits match the federal tax credit. As a result, we would say that the purchase made in his RRSP would actually cost him…",
+            "options": [
+                "a) $1,500.",
+                "b) $2,100.",
+                "c) $2,400.",
+                "d) $4,200."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following documents must an investor receive upon purchase of a mutual fund?",
+            "options": [
+                "a) Fund facts document only.",
+                "b) Fund facts document and a simplified prospectus.",
+                "c) Fund facts document and an annual information form.",
+                "d) Fund facts document, a simplified prospectus and an annual information form."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The most prominent applications of derivatives among mutual fund managers are to…",
+            "options": [
+                "a) increase return and reduce volatility.",
+                "b) increase return and hedge against risk.",
+                "c) facilitate market entry and exit and increase return.",
+                "d) facilitate market entry and exit and hedge against risk."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "What type of mutual fund keeps its share or unit value constant at $10?",
+            "options": [
+                "a) bond funds",
+                "b) equity funds",
+                "c) mortgage funds",
+                "d) money market funds"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Ranked from least risky to highest risk, which of the following risk-return relationships among funds is not correct?",
+            "options": [
+                "a) money market, balanced, equity, specialty",
+                "b) fixed income, balanced, equity, specialty",
+                "c) money market, equity, balanced, specialty funds",
+                "d) money market, balanced, equity, specialty funds"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "__________ does not replicate the market exactly, but sticks fairly close to the market weightings by industry sector, by country or region, or average market capitalization.",
+            "options": [
+                "a) Indexing",
+                "b) Closet indexing",
+                "c) Active investing",
+                "d) Passive investing"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The term “glide path” is most closely associated with…",
+            "options": [
+                "a) equity funds.",
+                "b) specialty funds.",
+                "c) target date funds.",
+                "d) money market funds."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What is/are the way(s) that a mutual fund can generate taxable income for an investor?",
+            "options": [
+                "a) Through the distribution of interest income, dividends, and capital gains.",
+                "b) Through capital gains realized when the fund is sold.",
+                "c) a) & b)",
+                "d) None of the above"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "When investors receive distributions from their mutual fund, they will have…",
+            "options": [
+                "a) more units at a lower price.",
+                "b) more units at a higher price.",
+                "c) the same number of units at a higher price.",
+                "d) the same number of units at the same price."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor receives annual distributions from a mutual fund, pays taxes on them, and reinvests the entire amount of the distribution. This would…",
+            "options": [
+                "a) decrease the adjusted cost base of the units.",
+                "b) not affect the adjusted cost base of the units.",
+                "c) increase the adjusted cost base of the units.",
+                "d) only increase the adjusted cost base of the units if the distributions were in the form of capital gains."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor has set up a ratio-withdrawal plan, assuming growth of 8% per year. If actual growth were 6%…",
+            "options": [
+                "a) the plan would be exhausted earlier.",
+                "b) the amount of the annual withdrawals would decrease.",
+                "c) the amount of the annual withdrawals would increase.",
+                "d) both a) and b)."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The life-expectancy adjusted withdrawal plan is a variation of the…",
+            "options": [
+                "a) ratio-withdrawal plan.",
+                "b) fixed-dollar withdrawal.",
+                "c) fixed-period withdrawal plan.",
+                "d) redemption-value withdrawal plan."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is a risk that is most likely associated with managed product but not with structured product?",
+            "options": [
+                "a) inflation risk",
+                "b) currency risk",
+                "c) prepayment risk",
+                "d) non-systematic risk"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is not a factor that has driven the growth for managed and structured products?",
+            "options": [
+                "a) demographics",
+                "b) the search for yield",
+                "c) the search for alpha",
+                "d) growth in passive investing"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The benefit of diversification in a mutual fund is most closely associated with reducing or eliminating…",
+            "options": [
+                "a) market risk",
+                "b) systematic risk",
+                "c) non-systematic risk",
+                "d) business risk"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What unique benefit do PAC plans provide?",
+            "options": [
+                "a) They allow investors to time the market.",
+                "b) They allow investors to invest small amounts.",
+                "c) They allow investors to reduce the MERs on the funds they hold.",
+                "d) They allow investors to switch between funds with no additional charges."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is the benefit that the trust structure provides mutual funds?",
+            "options": [
+                "a) The structure enables the fund itself to avoid taxation.",
+                "b) The structure provides investors with the necessary confidence to invest.",
+                "c) The structure guarantees that fees will only be charges if the fund provides a positive return.",
+                "d) The trust structure does not provide any particular benefit to mutual funds."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following parties hold the ultimate responsibility for the activities of any mutual fund?",
+            "options": [
+                "a) the directors",
+                "b) the manager",
+                "c) the custodian",
+                "d) the distributors"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "All of the following are duties of the mutual fund manager except…",
+            "options": [
+                "a) calculation of the fund’s net asset value.",
+                "b) preparation of the fund’s prospectus and other reports.",
+                "c) supervision of shareholder or unit holder record keeping.",
+                "d) accepting and transmitting orders for fund share redemptions."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A mutual fund has $25,000,000 worth of Securities. It has $2,000,000 in Cash and Liabilities of $1,500,000. If there are 10,000,000 shares outstanding, its NAVPS is…",
+            "options": [
+                "a) $2.35.",
+                "b) $2.50.",
+                "c) $2.55.",
+                "d) $2.70."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A mutual fund was purchased on January 2nd 2013 when its NAV was $20.00. It was sold with a back-end load that commenced at 6% and declined by 1% for each year thereafter, with the load based on the NAV when sold. If the units were worth $24.00 in October 2016 when they were sold, the investor would receive…",
+            "options": [
+                "a) $23.28.",
+                "b) $23.40.",
+                "c) $23.70.",
+                "d) $24.00."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The annual fee that a salesperson is paid who sold the fund is known as the…",
+            "options": [
+                "a) trailer fee.",
+                "b) front-end load.",
+                "c) back-end load.",
+                "d) redemption fee."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In order for investors to avoid the recapture of federal tax credits, they must hold LSVCCs for a minimum of ____ year(s).",
+            "options": [
+                "a) one.",
+                "b) five.",
+                "c) eight.",
+                "d) ten."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following are you least likely to agree with about the fund facts document?",
+            "options": [
+                "a) Delivery is required within two business days of purchasing the mutual fund.",
+                "b) The fund facts document is divided into two major headings, each with its own section of related items.",
+                "c) The sections covered under the first heading provide information about the fund including quick facts and risks.",
+                "d) The sections under the second heading provide information about past performance and the cost of buying, owning and selling the fund."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following are you most likely to agree with in respect to the simplified prospectus and annual information form?",
+            "options": [
+                "a) The simplified prospectus must be updated quarterly.",
+                "b) The simplified prospectus must be delivered to the investor upon his/her request.",
+                "c) The annual information form does not have any information in it that is also included in the simplified prospectus.",
+                "d) The annual information form does not have to be made available to investors if they are already receiving a simplified prospectus."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following common restrictions on mutual funds would not pertain to the manager of a specialty mutual fund?",
+            "options": [
+                "a) No borrowing for leverage purposes.",
+                "b) No more than 10% of a company’s voting stock.",
+                "c) No more than 10% of the net assets in the securities of a single issuer.",
+                "d) All of these restrictions would apply to a manager of a specialty mutual fund."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The prohibited sales practice of “quoting a future price” is most closely associated with...",
+            "options": [
+                "a) front-running.",
+                "b) back-dating orders.",
+                "c) offer to repurchase.",
+                "d) guaranteeing returns."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Harold Zhang is employed by XYZ Bank and sells mutual funds through its downtown branch. A client of his wants to take out a loan from Mr. Zhang, and then purchase mutual fund units from him. In order for this to be acceptable, Mr. Zhang must…",
+            "options": [
+                "a) do nothing. He can take the order.",
+                "b) get approval from his supervisor.",
+                "c) get approval from a senior lending officer.",
+                "d) Under no circumstances would this be acceptable."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following mutual funds tends to provide tax-advantaged income with some possibility of capital appreciation?",
+            "options": [
+                "a) dividend funds",
+                "b) specialty funds",
+                "c) real estate funds",
+                "d) small and mid-cap funds"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is least likely to be true about small-cap mutual funds?",
+            "options": [
+                "a) They expose the investor to higher risk than large-cap funds.",
+                "b) They expose the investor to higher expected returns than large-cap funds.",
+                "c) They derive the majority of their returns from dividend income, rather than capital gains.",
+                "d) The distributions from them would be taxed identically to distributions from large-cap funds."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchased 100 mutual fund units on April 1st, 2016 at a price of $20 per unit. There was a $2 distribution paid out in the form of capital gains in late November, after which the investor’s total holdings were worth $2,100. As a result, assuming that the investor had a 40% marginal tax rate, she would be responsible for paying ___ in taxes.",
+            "options": [
+                "a) Nil",
+                "b) $ 40",
+                "c) $ 80",
+                "d) $100"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased $25,000 worth of mutual funds twenty years ago. Over the years, she received a total or $5,000 dividends that were reinvested into additional units. She sells half of the units for $20,000. What are her capital gains?",
+            "options": [
+                "a) There are no capital gains.",
+                "b) $2,500.",
+                "c) $5,000.",
+                "d) $7,500."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following withdrawal plan(s) lead(s) to a steadily declining payout over the years?",
+            "options": [
+                "a) Ratio withdrawal plan only.",
+                "b) Ratio withdrawal plan and fixed period plan only.",
+                "c) Ratio withdrawal plan and life-expectancy adjusted plan only.",
+                "d) Ratio withdrawal plan, fixed period plan and life-expectancy adjusted plan."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "If you see that a mutual fund has a Volatility(Vty) or 9, you would understand that…",
+            "options": [
+                "a) over the previous year, it was far less volatile than most funds.",
+                "b) over the previous year, it was far more volatile than most funds.",
+                "c) over the previous three years, it was far less volatile than most funds.",
+                "d) over the previous three years, it was far more volatile than most funds."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Methods of calculating time-weighted rates of return include:",
+            "options": [
+                "i) Sharpe Ratio method",
+                "ii) Modified Dietz method",
+                "iii) Daily valuation method"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "All of the following are common ways to measure the risk of a mutual fund except…",
+            "options": [
+                "a) beta.",
+                "b) standard deviation.",
+                "c) the Morningstar rating.",
+                "d) the worst annual losses."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Survivorship bias tends to…",
+            "options": [
+                "a) inflate returns and overstate assets under management.",
+                "b) inflate returns and understate assets under management.",
+                "c) inflate returns but not impact assets under management.",
+                "d) understate returns and overstate assets under management."
+            ],
+            "answer": "2"
+        }
+    ]
+}

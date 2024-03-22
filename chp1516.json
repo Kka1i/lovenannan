@@ -1,0 +1,507 @@
+{
+    "questions": [
+        {
+            "question": "An investor purchased a $1,000 par value 5% coupon bond at 98. It matured at par a year later. What is the rate of return the investor enjoyed?",
+            "options": [
+                "a) 5.00%",
+                "b) 7.00%",
+                "c) 7.14%",
+                "d) $70.00"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Which of the following series of securities does not properly capture the relationship between risk and return?",
+            "options": [
+                "a) derivatives, common shares, debentures, treasury bills",
+                "b) bonds, preferred shares, common shares, derivatives",
+                "c) derivatives, preferred shares, bonds, treasury bills",
+                "d) treasury bills, preferred shares, debentures, derivatives"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which of the following securities eliminates inflation risk?",
+            "options": [
+                "a) strip bonds",
+                "b) real return bonds",
+                "c) retractable bonds",
+                "d) convertible debentures"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A Canadian investor purchases American government treasury bills. She would be exposed to which of the following risks?",
+            "options": [
+                "a) inflation, business and interest rate",
+                "b) inflation, liquidity and foreign exchange",
+                "c) political, business and foreign exchange",
+                "d) foreign exchange, business, and political"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A client invests $1,200 in three securities: $200 in Security A, $300 in Security B and $700 in Security C. At the end of the year, A is up 10%, B is down 5%, and C is up 12%. What is the portfolio return measured in dollars?",
+            "options": [
+                "a) $ 89.00",
+                "b) $118.00",
+                "c) $143.00",
+                "d) $204.00"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "A portfolio manager is looking at three different securities. A has an expected return of 10%, B an expected return of 9%, and C an expected return of 8%. The correlation between A & C is .8, between B & C -.6 and between A & C 0. If the manager’s mandate is to maximize his return, which of the following securities or combinations of securities makes the most sense?",
+            "options": [
+                "a) A only",
+                "b) A & B only",
+                "c) A & C only",
+                "d) Insufficient information"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Given the information provided in #7, what security or combination of securities would provide the lowest variance (or risk)?",
+            "options": [
+                "a) A only",
+                "b) C only",
+                "c) A & C",
+                "d) B & C"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "An asset manager is looking to add a security to an already well-diversified portfolio. If each of the securities has the same expected return, what would the preferred correlation be with the existing portfolio?",
+            "options": [
+                "a) –2.",
+                "b) –1.",
+                "c) 0.0",
+                "d) 1.0"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A given security has a beta of 1.2. This means that…",
+            "options": [
+                "a) it will always go up 20% more than the market.",
+                "b) if the market goes up by 20% the security will go up by approximately 22%.",
+                "c) if the market goes down by 10%, the security will go down by approximately 12%.",
+                "d) its alpha must be less than 1.0."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "You are examining a company’s share price and note that its beta is .8. In the absence of any other information, you might conclude that…",
+            "options": [
+                "a) this is a growth company.",
+                "b) this is a cyclical company.",
+                "c) this is a blue-chip company.",
+                "d) this is a speculative company."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "An analyst believes that the economy is transitioning from peak to recession/contraction. She has a mandate of holding 50% of her portfolio in equities. As a result of this economic forecast, she would be looking for companies with…",
+            "options": [
+                "a) low betas and positive alphas.",
+                "b) high betas and positive alphas.",
+                "c) low betas and negative alphas.",
+                "d) high betas and negative alphas."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "You are an Investment Advisor and a client’s portfolio has just been moved over to you. You see that the majority of the investments are in common shares of growth companies. You would assume that the client’s i) primary and ii) secondary investment objectives are…",
+            "options": [
+                "a) i) growth and ii) liquidity",
+                "b) i) growth and ii) tax minimization",
+                "c) i) growth and ii) safety",
+                "d) i) income and ii) liquidity"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "All of the following can be considered cash or near-cash securities except...",
+            "options": [
+                "a) GICs.",
+                "b) T-bills.",
+                "c) Canada Savings Bonds.",
+                "d) instalment debentures."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "An analyst believes that the economy is currently at the end of the contraction phase and the equity cycle is in the stock market trough. The appropriate investment strategy would be to…",
+            "options": [
+                "a) sell short-term bonds and buy long-term bonds.",
+                "b) sell short-term bonds and buy cash instruments.",
+                "c) sell long-term bonds and buy equities.",
+                "d) sell long-term bonds and buy cash instruments."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "An analyst believes that the equity cycle has peaked for the time being. The appropriate investment strategy would be to…",
+            "options": [
+                "a) sell equities and invest in long-term bonds",
+                "b) sell equities and invest in cash instruments.",
+                "c) stop buying equities and invest in cash instruments.",
+                "d) stop buying equities and invest in long-term bonds."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In the recovery and expansion phase of the equity cycle, the recommended investment strategy is to…",
+            "options": [
+                "a) increase exposure to cash.",
+                "b) increase exposure to short-term bonds.",
+                "c) increase exposure to long-term bonds.",
+                "d) increase exposure to common stocks."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "The most basic industry rotation strategy involves shifting back and forth between...",
+            "options": [
+                "a) value and growth stocks.",
+                "b) value and growth industries.",
+                "c) cyclical and defensive industries.",
+                "d) blue-chip and speculative industries."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "“Earnings momentum” is most closely associated with…",
+            "options": [
+                "a) value managers.",
+                "b) growth managers.",
+                "c) sector rotators.",
+                "d) None of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A value investor looks for all of the following except...",
+            "options": [
+                "a) low price/cash flow.",
+                "b) low dividend yields.",
+                "c) low price/book values.",
+                "d) low price-earnings multiples."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "High yield bonds that are not investment grade are popularly known as…",
+            "options": [
+                "a) junk bonds.",
+                "b) risky bonds.",
+                "c) discount bonds.",
+                "d) premium bonds."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The fixed-income manager strategy of interest rate anticipation or duration switching tends to work best when...",
+            "options": [
+                "a) interest rates are low.",
+                "b) interest rates are high.",
+                "c) the yield curve is flat.",
+                "d) the yield curve is normal."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "An investor starts the year with a portfolio worth $200,000. It is invested 50% in equities, 40% in bonds, and 10% in cash-like securities. Over the course of the year, the equities increase in value by 20%, the bonds increase in value by 5%, and the cash portion is unchanged. In order to re-balance this investor to her base policy mix, the investment advisor would...",
+            "options": [
+                "a) buy $8,000 in bonds and sell $8,000 in equities.",
+                "b) buy $12,000 in bonds and sell $12,000 in equities.",
+                "c) buy $2,400 in cash, buy $5,600 in bonds, and sell $8,000 in equities.",
+                "d) buy $2,400 in cash, buy $9,600 in bonds, and sell $12,000 in equities."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Portfolio monitoring requires monitoring:\ni) Changes in tax laws and government regulations\nii) Changes in the investor’s goals and financial position\niii) Expectations for capital markets and individual securities",
+            "options": [
+                "a) i) & ii) only",
+                "b) i) & iii) only",
+                "c) ii) & iii) only",
+                "d) i), ii) & iii)"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Under what circumstance might it be least appropriate to judge performance against a market benchmark?",
+            "options": [
+                "a) When the portfolio is actively managed.",
+                "b) When the portfolio is passively managed.",
+                "c) When the portfolio has low turnover to avoid capital gains.",
+                "d) When the portfolio has low turnover to avoid paying commissions."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The Sharpe Ratio compares the return of a given portfolio above the risk-free rate in relation to the portfolio’s __________.",
+            "options": [
+                "a) beta.",
+                "b) alpha.",
+                "c) variance.",
+                "d) standard deviation."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "A 7% annual pay bond, issued at par, was purchased for 102. One year later, it was called at a price of 101. What is the rate of return enjoyed by the investor?",
+            "options": [
+                "a) 4.9%",
+                "b) 5.9%",
+                "c) 6.0%",
+                "d) 7.0%"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is true with respect to the relationship between inflation, real rates of return, and nominal rates of return?",
+            "options": [
+                "a) The higher the inflation rate, the higher the real rate of return required by an investor.",
+                "b) The higher the inflation rate, the higher the nominal rate of return required by an investor.",
+                "c) The higher the inflation rate, the higher the real rate and nominal rate of return required by an investor.",
+                "d) Inflation does not impact either real or nominal rates of return required by an investor."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "The risk-free rate of return is represented by…",
+            "options": [
+                "a) T-bills.",
+                "b) short-term government bonds.",
+                "c) long-term government bonds.",
+                "d) There is no such thing as a risk-free rate of return."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following securities has business risk associated with it?",
+            "options": [
+                "a) common shares",
+                "b) common shares and secured corporate debt",
+                "c) common shares and unsecured corporate debt",
+                "d) common shares, secured corporate debt and unsecured corporate debt"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which of the following is not one of the common statistically-based measures of risk for an individual security?",
+            "options": [
+                "a) beta",
+                "b) variance",
+                "c) correlation",
+                "d) standard deviation"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "An investor has a $250,000 portfolio. 70% is in Security One which returns 10% over the year. The remaining 30% is in Security Two which returns 5%. The value of the portfolio in one year’s time is…",
+            "options": [
+                "a) $268,750",
+                "b) $271,250",
+                "c) $272,500",
+                "d) Insufficient information"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is the preferred correlation when adding a single security to an already well-diversified portfolio?",
+            "options": [
+                "a) –1.0",
+                "b) 0.0",
+                "c) 0.5",
+                "d) 1.0"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "An investor is looking to add a security to an existing portfolio. The expected return of the current portfolio is 8% and its standard deviation is 15. The expected return of the security is 8.5% and its standard deviation is 15. There is a correlation of 0.0 between this security and the existing portfolio. Which of the following best describes the impact of adding the security to the portfolio?",
+            "options": [
+                "a) Adding the security will increase the expected return and reduce the risk.",
+                "b) Adding the security will increase the expected return and not impact the risk.",
+                "c) Adding the security will increase the expected return and increase the risk.",
+                "d) Adding the security will increase the expected return and it is unclear how the risk will be impacted."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "You are examining two companies. Company One has a beta of 1.2 and Company Two has a beta of .8. It is most likely that…",
+            "options": [
+                "a) Company One tends to be more profitable than Company Two.",
+                "b) Company Two tends to be more profitable than Company One.",
+                "c) Company One is a defensive stock and Company Two is a cyclical stock.",
+                "d) Company Two is a defensive stock and Company One is a cyclical stock."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "In the correct order, the first three steps of the portfolio management process are:",
+            "options": [
+                "a) determining investment objectives and constraints; designing an investment policy statement; and implementing the asset allocation",
+                "b) designing the investment policy statement; implementing the asset allocation; and monitoring the economy, the markets, the portfolio and the client",
+                "c) determining investment objectives and constraints; designing an investment policy statement; and formulating an asset allocation strategy and selecting investment styles",
+                "d) determining investment objectives and constraints; formulating an asset allocation strategy and selecting investment styles; and designing an investment policy statement"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "The client’s risk tolerance should be matched to…",
+            "options": [
+                "a) the risk of each security in the portfolio.",
+                "b) the risk of the average security in the portfolio.",
+                "c) the risk of the riskiest security in the portfolio.",
+                "d) the risk of the overall portfolio."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Sylvia Wong is a 35 year old single professional. For financial planning purposes, her time horizon should be understood as the present…",
+            "options": [
+                "a) until she needs the money.",
+                "b) until the next major expected change in her life.",
+                "c) until her retirement.",
+                "d) until her death."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which of the following is not considered to be a fixed income product for asset mix purposes?",
+            "options": [
+                "a) mortgages",
+                "b) strip bonds",
+                "c) preferred shares",
+                "d) convertible bonds"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "Which of the following is considered to be an equity product for asset mix purposes?",
+            "options": [
+                "a) rights",
+                "b) index options",
+                "c) exchange-traded funds",
+                "d) All of the above"
+            ],
+            "answer": 4
+        },
+        {
+            "question": "The expansion phase of the equity cycle tends to correspond to which phase of the business cycle?",
+            "options": [
+                "a) trough",
+                "b) recovery",
+                "c) expansion",
+                "d) peak"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "During the peak phase of the equity cycle, the recommended fixed-income strategy is to hold...",
+            "options": [
+                "a) short-term bonds.",
+                "b) medium-term bonds.",
+                "c) long-term bonds.",
+                "d) A laddered bond portfolio."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "The recommended strategy in the stock market trough of the equity cycle is to…",
+            "options": [
+                "a) sell stocks and buy long-term bonds.",
+                "b) sell stocks and sell long-term bonds.",
+                "c) sell long-term bonds and buy cyclical stocks.",
+                "d) sell long-term bonds and buy short-term bonds."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "What are the two factors that, in combination, generally account for 80% to 90% of the change in stock market prices?",
+            "options": [
+                "a) Interest rate trends and economic trends.",
+                "b) Interest rate trends and flow of funds trends.",
+                "c) Economics trends and government policy trends.",
+                "d) Government policy trends and flow of funds trends."
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following equity manager styles tends to expose the investor to the greatest amount of risk during times of recession?",
+            "options": [
+                "a) value",
+                "b) growth",
+                "c) top-down",
+                "d) bottom-up"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "For the sector rotator equity manager...",
+            "options": [
+                "a) stock selection is more important than industry selection and small cap stocks are generally purchased.",
+                "b) industry selection is more important than stock selection and small cap stocks are generally purchased.",
+                "c) stock selection is more important than industry selection and large cap stocks are generally purchased.",
+                "d) industry selection is more important than stock selection and large cap stocks are generally purchased."
+            ],
+            "answer": 4
+        },
+        {
+            "question": "A middle-aged investor with a long time horizon and high tolerance for risk comes to you for investment advice. The most appropriate asset allocation for this individual would be:",
+            "options": [
+                "a) 50% cash, 30% bonds, 20% equities",
+                "b) 30% cash, 40% bonds, 30% equities",
+                "c) 10% cash, 30% bonds, 60% equities",
+                "d) 0% cash, 20% bonds, 80% equities"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A risk-averse 65 year old with a high need for income in her portfolio comes to you for investment advice. The most appropriate portfolio for this individual would be…",
+            "options": [
+                "a) 10% cash, 65% bonds, 25% equities",
+                "b) 40% cash, 40% bonds, 20% equities",
+                "c) 50% cash, 50% bonds, 0% equities",
+                "d) 60% cash, 40% bonds 0% equities"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "An investor’s $400,000 portfolio has a long-term strategic asset allocation of 50% equities, 30% bonds and 20% cash. Over a year, equities fall by 10% while bonds increase 10%. Cash is unchanged. In order to rebalance the portfolio to the strategic allocation, the portfolio manager should…",
+            "options": [
+                "a) buy $16,000 worth of equities, sell $14,400 worth of bonds, and buy $1,600 worth of cash.",
+                "b) buy $16,000 worth of equities, sell $14,400 worth of bonds, and sell $1,600 worth of cash.",
+                "c) buy $14,400 worth of equities, sell $16,000 worth of bonds, and buy $1,600 worth of cash.",
+                "d) buy $20,000 worth of equities, sell $18,000 worth of bonds, and sell $2,000 worth of cash"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "When an analyst is comparing the Sharpe ratios of different portfolios, she should look for the…",
+            "options": [
+                "a) lowest positive number possible.",
+                "b) lowest negative number possible.",
+                "c) highest positive number possible.",
+                "d) highest negative number possible."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "A negative Sharpe ratio means that…",
+            "options": [
+                "a) the portfolio lost money.",
+                "b) the portfolio’s return was less than the risk-free rate.",
+                "c) the portfolio’s return was less than that of the benchmark.",
+                "d) the portfolio’s return was less than that of the benchmark minus the risk-free rate."
+            ],
+            "answer": 2
+        }
+    ]
+}
+
+
+

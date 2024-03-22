@@ -1,0 +1,503 @@
+{
+    "questions": [
+        {
+            "question": "When a beneficiary in a segregated fund contract is named as irrevocable, the beneficiary can only be changed…",
+            "options": [
+                "a) with the consent of the annuitant",
+                "b) with the consent of the beneficiary.",
+                "c) with the consent of both the annuitant and beneficiary.",
+                "d) If the beneficiary is made irrevocable, it cannot be changed under any circumstances."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is the maximum maturity guarantee that a segregated fund contract can provide?",
+            "options": [
+                "a) 75% after a five year holding period",
+                "b) 100% after a five year holding period",
+                "c) 75% after a ten year holding period",
+                "d) 100% after a ten year holding period"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investor bought $20,000 worth of segregated funds that came with the minimum guarantee allowed under provincial legislation. When they had appreciated in price to $25,000, she sold $5,000 worth of units. What is her new guaranteed amount?",
+            "options": [
+                "a) $12,000",
+                "b) $13,500",
+                "c) $15,000",
+                "d) $17,500"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased $10,000 guaranteed worth of segregated funds. When he died seven years later, the units were worth $9,000. The death benefit would be…",
+            "options": [
+                "a) $1,000.",
+                "b) $9,000.",
+                "c) $10,000.",
+                "d) Nothing. The units were held for more than five years so the death benefit feature no longer applies."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A self-employed professional died and left a non-registered investment portfolio of $250,000. $150,000 was held in segregated funds and $100,000 was in mutual funds. He had business related debts of $300,000. His beneficiaries would receive…",
+            "options": [
+                "a) Nothing.",
+                "b) $100,000.",
+                "c) $150,000.",
+                "d) $250,000."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following products would most likely have the highest MER?",
+            "options": [
+                "a) Actively managed mutual fund",
+                "b) Passively managed segregated fund",
+                "c) Actively managed segregated fund with 75% guarantee",
+                "d) Actively managed segregated fund with 100% guarantee"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following captures the effect of allocations of the number of units and NAVs of segregated funds and mutual funds.",
+            "options": [
+                "a) Distributions increase the number of mutual fund units and increase the price of segregated fund units.",
+                "b) Distributions increase the price of mutual fund units and increase the price of segregated fund units.",
+                "c) Distributions increase the number of mutual fund units and increase the number of segregated fund units.",
+                "d) Distributions increase the number of mutual fund units. Segregated fund units do not receive distributions because formally they are insurance contracts."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased $100,000 worth of segregated funds in 1999 in a non-registered account. Eight years later when they were worth $150,000, she reset their value. In 2016, they were worth $160,000 and she sold them. Assuming that the $60,000 was made up entirely of capital gains, which of the following best describes her tax liability?",
+            "options": [
+                "a) She would be responsible for $50,000 worth of capital gains in 2007 and $10,000 in capital gains in 2016.",
+                "b) She would be responsible for paying tax on 100% of the $60,000 capital gains in 2016.",
+                "c) She would be responsible for paying tax on 50% of the $60,000 capital gains in 2016.",
+                "d) She would not be able to sell the funds in 2016 because she chose to reset their value in 2007."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "What is the insurance industry’s self-financing provider against the loss of policy benefits in case of corporate insolvency?",
+            "options": [
+                "a) CIPF",
+                "b) Assuris",
+                "c) CLHIA",
+                "d) CompCorp"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A Guaranteed Minimum Withdrawal Benefit (GMWB) Plan is most similar to a…",
+            "options": [
+                "a) fixed annuity.",
+                "b) probate fund.",
+                "c) portfolio fund.",
+                "d) variable annuity."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Under one type of GMWB plan, an investor can purchase the product several years in advance of withdrawals. In that case, the annual growth will be…",
+            "options": [
+                "a) 3%.",
+                "b) 5%.",
+                "c) 10%.",
+                "d) Variable, depending on the underlying assets in the product."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Portfolio funds offer the benefit of…",
+            "options": [
+                "a) lower MERs.",
+                "b) greater diversification.",
+                "c) very active management.",
+                "d) very passive management."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Hedge funds are usually structured as _________ and issue a legal document called a(n) ________ which states the objectives, risks and terms of investment.",
+            "options": [
+                "a) private placements; offering memorandum",
+                "b) private placements; simplified prospectus",
+                "c) limited partnerships; offering memorandum",
+                "d) limited partnerships; simplified prospectus"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Alfred Jones, the father of hedge funds, merged which of the following speculative tools into a conservative strategy:",
+            "options": [
+                "i) short selling",
+                "ii) leverage",
+                "iii) options"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following is least likely to be a unique benefit of hedge fund investing?",
+            "options": [
+                "a) relative returns",
+                "b) risk minimization",
+                "c) lower volatility and higher returns",
+                "d) low correlations with other asset classes"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The lock-up period most directly impacts…",
+            "options": [
+                "a) returns.",
+                "b) liquidity.",
+                "c) volatility.",
+                "d) incentive fees."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A new hedge fund was launched with a net asset value of $10 per unit. At the end of the first year, it rises to $15. The hurdle rate on which incentive fees are based is 5%. By the end of the second year, the net asset value has fallen to $14. In order for an incentive fee to be paid in Year Three, the NAV must exceed…",
+            "options": [
+                "a) $10.00.",
+                "b) $11.03 ($10.00 x 1.05 x 1.05).",
+                "c) $14.70 ($14.00 x 1.05).",
+                "d) $15.75 ($15.00 x 1.05)."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following risks is frequently overlooked by investors when they invest in hedge funds?",
+            "options": [
+                "a) market risk",
+                "b) manager risk",
+                "c) business risk",
+                "d) regulatory risk"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Arbitrage is least likely to be associated with…",
+            "options": [
+                "a) directional strategies.",
+                "b) event-driven strategies.",
+                "c) relative value strategies.",
+                "d) Arbitrage is closely associated with all hedge fund strategies."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following relative value strategies attempts to exploit pricing differences between securities issued by the same company?",
+            "options": [
+                "a) Risk arbitrage",
+                "b) Market-neutral",
+                "c) Fixed-income arbitrage",
+                "d) Convertible arbitrage"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is not an event-driven hedge fund strategy?",
+            "options": [
+                "a) Global macro",
+                "b) High-yield bonds",
+                "c) Distressed securities",
+                "d) Merger or risk arbitrage"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A hedge fund has gone long $100,000 worth of Amazon and shorted $80,000 worth of Netflix. Its net exposure and leverage are…",
+            "options": [
+                "a) 20% and 1.8.",
+                "b) 1.25 and 1.8.",
+                "c) .8 and 1.25.",
+                "d) 20% and 1.25."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Most managed futures funds favour using what type of analysis?",
+            "options": [
+                "a) Technical analysis",
+                "b) Fundamental analysis",
+                "c) Technical and statistical analysis",
+                "d) Fundamental and statistical analysis"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Compared to investing in one single mutual fund, multi-strategy, multi-manager fund of funds investing is least likely to guarantee…",
+            "options": [
+                "a) higher returns.",
+                "b) lower volatility.",
+                "c) greater access.",
+                "d) greater diversification."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "All of the following are understood as potential disadvantages to fund of funds investing except…",
+            "options": [
+                "a) business risk control.",
+                "b) excessive diversification.",
+                "c) additional sources of leverage.",
+                "d) no guarantee of positive returns."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "According to Provincial Legislation, the minimum statutory guarantee for a segregated fund is…",
+            "options": [
+                "a) 75% after 5 years.",
+                "b) 75% after 10 years.",
+                "c) 100% after 5 years.",
+                "d) 100% after 10 years."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased $10,000 worth of segregated fund units that were guaranteed up to 75% of their value assuming that they were held for the requisite period of time. When the units were worth $11,000, she sold $1,000 worth. Her new guaranteed amount would be closest to…",
+            "options": [
+                "a) $6,750.",
+                "b) $6,825.",
+                "c) $7,500.",
+                "d) $9,000."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased $10,000 worth of segregated fund units in 2010 with a 100% maturity guarantee. When they were worth $13,000 in 2014, she reset their value. Which of the following best describes her protection?",
+            "options": [
+                "a) She is guaranteed to receive at least $10,000 as long as she holds them until 2020.",
+                "b) She is guaranteed to receive at least $13,000 as long as she holds them until 2020.",
+                "c) She is guaranteed to receive at least $13,000 as long as she holds them until 2024.",
+                "d) She is guaranteed to receive at most $13,000 as long as she holds them until 2024."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Creditor protection implies that if a business owner dies with non-registered investments and business-related debts that are greater than the value of the investments…",
+            "options": [
+                "a) after probate fees, his beneficiaries will split the value of the investments with the creditors.",
+                "b) after probate fees, his beneficiaries will receive the full value of the investments.",
+                "c) his beneficiaries will receive half the value of the investments without any probate fees.",
+                "d) his beneficiaries will receive the full value of the investments without any probate fees."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is a key estate planning benefit of segregated funds compared to mutual funds?",
+            "options": [
+                "a) death benefit",
+                "b) the reset feature",
+                "c) bypassing probate",
+                "d) the maturity guarantee"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The main disclosure document for a segregated fund is the…",
+            "options": [
+                "a) prospectus.",
+                "b) information folder.",
+                "c) simplified prospectus.",
+                "d) annual information form."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Segregated funds are…",
+            "options": [
+                "a) usually valued daily and at least weekly.",
+                "b) usually valued daily and at least monthly.",
+                "c) usually valued daily and at least quarterly.",
+                "d) usually valued weekly and at least monthly."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following best describes the protection of segregated funds and mutual funds against issuer insolvency?",
+            "options": [
+                "a) Both segregated funds and mutual funds are government guaranteed up to a maximum of $1,000,000 per eligible customer",
+                "b) Segregated funds are guaranteed by Assuris to a maximum of $60,000 per eligible customer and mutual funds are guaranteed by the MFDA’s Investor Protection Corporation to a maximum of $100,000 per eligible customer",
+                "c) Segregated funds are guaranteed by Assuris to a maximum of $60,000 per eligible customer and mutual funds are guaranteed by the MFDA’s Investor Protection Corporation to a maximum of $1,000,000 per eligible customer",
+                "d) Segregated funds are guaranteed by Assuris to a maximum of $100,000 per eligible customer and mutual funds are guaranteed by the MFDA’s Investor Protection Corporation to a maximum of $1,000,000 per eligible customer"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "On July 1st, 2014 an investor purchased 100 segregated fund units and 100 mutual fund units. At the end of the year, there were distributions of interest income in the amount of $100 associated with his segregated funds and $200 associated with his mutual funds. What is the total amount of the distributions that the investor would be responsible for paying tax on?",
+            "options": [
+                "a) $100",
+                "b) $200",
+                "c) $250",
+                "d) $300"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following is not one of OSFI’s key requirements for segregated fund contracts?",
+            "options": [
+                "a) The initial term of the contract cannot be more than 10 years.",
+                "b) There can be no guarantee of any amounts payable before the annuitant’s death or contract maturity date.",
+                "c) The maturity guarantee payable at the end of the term of the policy cannot be less than 100% of the gross premiums paid by the contract holder.",
+                "d) All of the above are key requirements according to OSFI."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Under which of the following circumstances is it most likely that the holder of a guaranteed minimum withdrawal benefit (GMWB) plan may never receive the principal payments made into the plan?",
+            "options": [
+                "a) The holder starts payments immediately and there are early losses in the portfolio.",
+                "b) The holder defers payments for five years and there are late losses in the portfolio.",
+                "c) The holder defers payments for ten years and there are early losses in the portfolio.",
+                "d) It is impossible under a GMWB plan for the holder not to at least receive the principal amount invested."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investor put $100,000 into a GMWB in 2010, with a guaranteed payment of $4,000 at that time, even though he chooses to defer withdrawals. Two years later when the underlying assets are worth $95,000, he begins his withdrawals. The amount he would get annually is closest to…",
+            "options": [
+                "a) $3,800.",
+                "b) $4,000.",
+                "c) $4,200.",
+                "d) $4,400."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following are you least likely to agree with in respect to hedge funds compared to mutual funds?",
+            "options": [
+                "a) Mutual funds are more liquid than hedge funds.",
+                "b) Mutual funds are more heavily regulated than hedge funds.",
+                "c) Mutual funds are valued more frequently than hedge funds.",
+                "d) Mutual funds take concentrated positions more frequently than hedge funds."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following is the primary determinant of whether an investor is considered “sophisticated” or “accredited”?",
+            "options": [
+                "a) net worth",
+                "b) education",
+                "c) personal leverage",
+                "d) investment experience"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Alfred Jones believed that in a falling market, the hedge fund manager should…",
+            "options": [
+                "a) have a large cash allocation.",
+                "b) only hold short positions.",
+                "c) short securities that will decline more than the market and go long securities that will decline less than the market.",
+                "d) short securities that will decline less than the market and go long securities that will decline more than the market."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "In order for a hedge fund to provide the maximum diversification benefit in a portfolio, its historic returns should be…",
+            "options": [
+                "a) positively corrected to the portfolio.",
+                "b) negatively correlated to the portfolio.",
+                "c) positively correlated to the portfolio and the market.",
+                "d) negatively correlated to the portfolio and the market."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The lock-up period most directly benefits…",
+            "options": [
+                "a) the hedge fund manager.",
+                "b) the investor in the hedge fund.",
+                "c) The lock-up period benefits the manager and investor equally.",
+                "d) The lock-up period benefits neither the manager nor the investor."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Hemali Singh is a Hedge Fund Manager who runs her Fund under the 2 & 20 rule. In 2013, she started the year with $10 million in Assets under Management. After fees were deducted at the end of the year, the Hedge Fund was worth $14 million. At the end of 2014, the Hedge Fund was worth $12 million. At the end of 2015, it was worth $14 million. Assuming that her fund operated under “high water mark” rules, her fees for 2015 would be closest to…",
+            "options": [
+                "a) $0.",
+                "b) $280,000.",
+                "c) $400,000.",
+                "d) $680,000."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following is one of the biggest – and most overlooked – risks associated with hedge fund investing?",
+            "options": [
+                "a) tax risk",
+                "b) manager risk",
+                "c) business risk",
+                "d) leverage risk"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An Investment Manager is examining several different hedge funds. Everything else being equal, he would prefer those hedge funds with…",
+            "options": [
+                "a) short lock-ups and low high water marks.",
+                "b) short lock-ups and high high water marks.",
+                "c) long lock-ups and low high water marks.",
+                "d) long lock-ups and high high water marks."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The lowest market exposure to the underlying market direction is found in which of the following hedge fund categories?",
+            "options": [
+                "a) Directional",
+                "b) Event-driven",
+                "c) Global macro",
+                "d) Relative value"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "High leverage is most closely associated with which of the following hedge fund strategies?",
+            "options": [
+                "a) global macro",
+                "b) long/short equity",
+                "c) convertible arbitrage",
+                "d) fixed-income arbitrage"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Merger or risk arbitrage generally involves…",
+            "options": [
+                "a) taking a long position in the acquiring company.",
+                "b) taking a long position in the company being acquired.",
+                "c) taking a long position in the acquiring company and a short position in the company being acquired.",
+                "d) taking a short position in the acquiring company and a long position in the company being acquired."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A Commodity Trading Advisor (CTA) would most likely be involved with which of the following hedge funds?",
+            "options": [
+                "a) Managed futures",
+                "b) Distressed securities",
+                "c) Equity market-neutral",
+                "d) Convertible arbitrage"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In a fund of funds hedge fund structure…",
+            "options": [
+                "a) the volatility of the fund of funds should be lower than the average volatility of the funds in the portfolio.",
+                "b) the volatility of the fund of funds should be the same as the average volatility of the funds in the portfolio.",
+                "c) the volatility of the fund of funds should be lower than the volatility of the least volatile fund in the portfolio.",
+                "d) It is not possible to generalize about the volatility of the fund of funds and the volatility of the individual funds in it."
+            ],
+            "answer": "1"
+        }
+    ]
+}

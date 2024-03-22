@@ -1,0 +1,1003 @@
+{
+    "questions": [
+        {
+            "question": "A $1,000 par value 6% coupon bond was purchased at 95 and exactly one year later redeemed by the issuer at par. What was the investor’s holding period return?",
+            "options": [
+                "a) 6.0%",
+                "b) 9.5%",
+                "c) 11.0%",
+                "d) 11.6%"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Liquidity for a mutual fund is guaranteed by National Instrument 81-102 with the…",
+            "options": [
+                "a) Right of Rescission",
+                "b) Right of Redemption",
+                "c) Right of Settlement",
+                "d) Liquidity for a mutual fund is not guaranteed."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "According to provincial legislation, maturity guarantees for segregated funds…",
+            "options": [
+                "a) must be a minimum of 75% after a ten year holding period.",
+                "b) must be a maximum of 75% after a ten year holding period",
+                "c) must be a minimum of 100% after a ten year holding period",
+                "d) Provincial legislation does not cover maturity guarantees for segregated funds."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Purchasing power risk is most closely associated with…",
+            "options": [
+                "a) investing too conservatively.",
+                "b) investing too aggressively.",
+                "c) the impact of inflation.",
+                "d) the possibility of default by corporate issuers."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Mr. Patel studies interest rates, economic variables and uses computer databases to make his investment recommendations. Mr. Patel is a…",
+            "options": [
+                "a) qualitative analyst.",
+                "b) quantitative analyst.",
+                "c) fundamental analyst.",
+                "d) technical analyst."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following (lowest to highest) risk-return relationships for securities is incorrect?",
+            "options": [
+                "a) treasury bills, debentures, preferred shares, common shares",
+                "b) debentures, bonds, common shares, derivatives",
+                "c) treasury bills, bonds, preferred shares, derivatives",
+                "d) debentures, preferred shares, common shares, derivatives"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The most common structure for mutual funds in Canada is the…",
+            "options": [
+                "a) open-end trust.",
+                "b) closed-end trust.",
+                "c) open-end corporation.",
+                "d) closed-end corporation."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "All of the following are structures for hedge funds and hedge fund-like products except…",
+            "options": [
+                "a) Commodity pools",
+                "b) Closed-end funds",
+                "c) Principal-protected notes",
+                "d) Index-linked notes"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Harold Huang is a doctor approaching the age of fifty. According to Life Cycle Analysis…",
+            "options": [
+                "a) he is in his mid-earning years and his investment objectives should be growth and income",
+                "b) he is in his mid-earnings years and his investment objectives should be growth and tax minimization",
+                "c) he is in his peak earning years and his investment objectives should be safety and income",
+                "d) he is in his peak earnings years and his investment objectives should be growth and tax minimization"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In the United States, short-term interest rates for government securities are higher than interest rates for long-term government securities. This is understood as…",
+            "options": [
+                "a) a tilting of the yield curve and this is favourable for the equity markets",
+                "b) a tilting of the yield curve and this is unfavourable for the equity markets",
+                "c) a falling of the yield curve and this is favourable for the economy",
+                "d) an inversion of the yield curve and this is unfavourable for the economy"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Which of the following securities is/are considered virtually risk-free?",
+            "options": [
+                "a) Treasury bills",
+                "b) Government of Canada bonds",
+                "c) Treasury bills and Government of Canada bonds",
+                "d) No security is considered virtually risk-free."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following parties involved in mutual funds is responsible for preparing the fund’s prospectus and reports, and supervising shareholder or unitholder record-keeping?",
+            "options": [
+                "a) directors",
+                "b) fund manager",
+                "c) custodian",
+                "d) distributor"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased $30,000 worth of segregated funds with a guaranteed amount of 75%. When they were $36,000, she sold $12,000 worth. What is this investor’s new guaranteed amount?",
+            "options": [
+                "a) $15,075",
+                "b) $20,100",
+                "c) $22,125",
+                "d) $24,000"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor splits her portfolio 60% - 40% into Security A (60%) which has an expected return of 10% and Security B (40%) which has an expected return of 6%. What is the expected return of this portfolio?",
+            "options": [
+                "a) 7.6%",
+                "b) 8%",
+                "c) 8.4%",
+                "d) 9.2%"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A mutual fund has assets of $28,000,000 that includes $2,000,000 in cash. As well, it has liabilities of $1,000,000. If its NAVPS is $5.19, then there are approximately…",
+            "options": [
+                "a) 4,817,000 shares",
+                "b) 5,202,000 shares",
+                "c) 5,395,000 shares",
+                "d) 5,588,000 shares"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "According to Alfred Jones, in a falling market, a successful hedge fund manager…",
+            "options": [
+                "a) should purchase shares that will go up over time",
+                "b) should short-sell shares that will go down over time",
+                "c) go long securities that will rise more than the market falls and go short securities that will fall less than the market falls",
+                "d) go long securities that will fall less than the market and go short securities that will decline more than the market"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Knowing your client means…",
+            "options": [
+                "a) knowing everything about him/her",
+                "b) understanding their risk tolerance and return objectives",
+                "c) understanding the financial and personal status and aspirations of the client",
+                "d) filling out the New Account Application Form"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Harjinder is a young, healthy male who has just made partner at a leading downtown law firm in the Securities Department. A reasonable asset allocation for him would be:",
+            "options": [
+                "a) 0% cash, 20% bonds, 80% equities",
+                "b) 5% cash, 30% bonds, 65% equities",
+                "c) 10% cash, 40% bonds, 50% equities",
+                "d) 10% cash, 60% bonds, 30% equities"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The trailer fee, paid annually to the distributor by the fund manager is also known as the…",
+            "options": [
+                "a) service fee",
+                "b) switching fee",
+                "c) front-end load",
+                "d) back-end load"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor holding segregated funds receives a distribution. As a result…",
+            "options": [
+                "a) he will have more units at a lower price.",
+                "b) he will have fewer units at a higher price.",
+                "c) he will have the same number of units at a higher price.",
+                "d) he will have the same number of units at a lower price."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Inflation means…",
+            "options": [
+                "a) lower interest rates and lower P/E ratios",
+                "b) lower interest rates and higher P/E ratios",
+                "c) higher interest rates and lower P/E ratios",
+                "d) higher interest rates and higher P/E ratios"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor is examining four different securities to add to a portfolio. Expected Return Standard Deviation Correlation Security A 12% 24% - .6 Security B 10% 12% 0.0 Security C 8% 6% .8 Security D 4% 1% .1 Which should she select if she is NOT concerned with its effect on the expected return of the portfolio but is only concerned with minimizing risk?",
+            "options": [
+                "a) Security A",
+                "b) Security B",
+                "c) Security C",
+                "d) Security D"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following statements would you agree with in respect to management fees and the management expense ratio?",
+            "options": [
+                "a) The management expense ratio is always equal to or less than the management fee.",
+                "b) Management fees are generally expressed as a straight percentage of the net assets under management.",
+                "c) The level of management fees is the same for all types of mutual funds.",
+                "d) The management expense ratio does not impact the return enjoyed by the investor."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased $25,000 worth of segregated funds in 1994. In 2005 when the funds were worth $22,000, she redeemed them. The maturity guarantee was $3,000. Which of the following captures the tax consequences?",
+            "options": [
+                "a) the maturity guarantee of $3,000 would not be taxable as a capital gain because the investor held the funds for more than ten years",
+                "b) the maturity guarantee of $3,000 would not be taxable as a capital gain because the investor suffered a $3,000 capital loss on the funds",
+                "c) the maturity guarantee of $3,000 would be taxable as a capital gain but it would be offset by the $3,000 capital loss on the funds",
+                "d) the maturity guarantee of $3,000 would be taxable as a capital gain and it would not be offset by the $3,000 capital loss on the funds"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Employment income is taxed on a…",
+            "options": [
+                "a) gross receipt basis",
+                "b) net receipt basis",
+                "c) gross income basis",
+                "d) net income basis"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which of the following industry stages of growth is typically most difficult for equity investors to access?",
+            "options": [
+                "a) emerging growth",
+                "b) growth",
+                "c) maturity",
+                "d) decline"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A security has a beta of 1.2. The market return is anticipated to be 10% and the risk-free rate is 4%. If an analyst believed that this security would appreciate by 12% in the coming year, then we could conclude that its alpha is…",
+            "options": [
+                "a) 0.0%",
+                "b) .8%",
+                "c) 2.0%",
+                "d) 6.0%"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor has put $100,000 into a four-year fixed period withdrawal plan. If it grew by 10% over the year, then the investor would withdraw ______ at the end of the first year.",
+            "options": [
+                "a) $15,000",
+                "b) $25,000",
+                "c) $27,500",
+                "d) $35,000"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor put $100,000 into a segregated fund contract with a guaranteed amount of $75,000. If he would sell these units after five years when they were worth $60,000, the segregated fund issuer would legally be able to give him a maximum of…",
+            "options": [
+                "a) $ 45,000",
+                "b) $ 60,000",
+                "c) $ 75,000",
+                "d) $100,000"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "All of the following are advantages of the fund of hedge funds (FoHF) except…",
+            "options": [
+                "a) due diligence",
+                "b) reduced volatility",
+                "c) additional diversification",
+                "d) lower costs"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "All of the following are one of the five competitive forces identified by Michael Porter except…",
+            "options": [
+                "a) ease of entry and exit for new competitors",
+                "b) extent to which suppliers can pressure the company",
+                "c) level of government taxation and amount of regulation",
+                "d) degree of competition between existing firms"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A security has a beta of 1.1. Therefore…",
+            "options": [
+                "a) if the market increases by 8%, this security will increase by 11%",
+                "b) if the market is flat, this security will be unchanged",
+                "c) if the market falls by 20%, this security will fall by 18%",
+                "d) this security is less volatile than the market"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor with a 30% marginal tax rate purchases a balanced mutual fund worth $40. The fund distributes $1 in interest income and $3 in capital gains. On a per share basis, taxes payable would be…",
+            "options": [
+                "a) $0.00",
+                "b) $0.45",
+                "c) $0.75",
+                "d) $1.20"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An upper-income single parent has $200,000 worth of earned income. She contributes $15,000 to her RRSP and $3,000 to her child’s RESP. What is the amount of i) income that she will pay tax on and ii) the CESG for that year?",
+            "options": [
+                "a) i) $182,000 & ii) $400",
+                "b) i) $182,000 & ii) $600",
+                "c) i) $185,000 & ii) $400",
+                "d) i) $200,000 & ii) $600"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A company has the choice of issuing bonds or preferred shares to leverage its return on equity. You would agree with all of the following statements except…",
+            "options": [
+                "a) Either security would increase the risk profile of the company.",
+                "b) Adding either security would mean earnings would increase during the upswing in the business cycle.",
+                "c) Adding either security would mean earnings would decrease during the downswing in the business cycle.",
+                "d) Issuing preferred shares would add more risk to the company’s operations than issuing bonds."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "What is the opposite of the market timing approach?",
+            "options": [
+                "a) buy-and-hold",
+                "b) bottom up",
+                "c) top down",
+                "d) sector rotation"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Prohibited mutual fund practices include all of the following except…",
+            "options": [
+                "a) short-selling",
+                "b) borrowing for leverage purposes",
+                "c) selling covered calls",
+                "d) purchases of more than 10% of the voting securities of a company"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which of the following documents is not required to be delivered to a purchaser of a segregated fund contract?",
+            "options": [
+                "a) Summary Fact Statement",
+                "b) Information Folder",
+                "c) Acknowledgement of Receipt Form",
+                "d) CLHIA guidelines"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Below are the Federal Income Tax Rates for 2009: How much Federal Tax would an investor making $120,000 have to pay?",
+            "options": [
+                "a) $25,885",
+                "b) $27,551",
+                "c) $32,003",
+                "d) $34,800"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "In 2005, a company had EPS of $1.00. It increased to $1.20 in 2006, $1.25 in 2007 and $1.40 in 2008. If 2005 is the base year, then the trend number for 2008 is…",
+            "options": [
+                "a) 1.40",
+                "b) 40",
+                "c) 116",
+                "d) 140"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "From a portfolio management perspective, which of the following is not considered a fixed-income product?",
+            "options": [
+                "a) strip bonds",
+                "b) convertible debentures",
+                "c) preferred shares",
+                "d) mortgages"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The Investment Funds Standards Committee classifies Canadian domiciled mutual funds into which of the following four broad groups?",
+            "options": [
+                "a) Cash and Equivalent Funds, Bond Funds, Canadian Equity Funds, International Equity Funds",
+                "b) Asset Allocation Funds, Bond Funds, Equity Funds, Specialty Funds",
+                "c) Cash and Equivalent Funds, Fixed-income Funds, Balanced Funds, Equity Funds",
+                "d) Balanced Funds, Asset Allocation Funds, Bond Funds, Equity Funds"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor in a 26% tax bracket receives $100 in dividend income and $100 in Capital Gains. How much more will she have to pay in Federal Tax for the dividend income?",
+            "options": [
+                "a) $2.85 less",
+                "b) $5.70 more",
+                "c) $6.50 more",
+                "d) Exactly the same"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Calculating the Operating Cash Flow ratio requires the analyst to pull information from the…",
+            "options": [
+                "a) Cash Flow Statement only",
+                "b) Cash Flow Statement and Income Statements",
+                "c) Cash Flow Statement and Balance Sheet",
+                "d) Cash Flow Statement and Profit and Loss Statement"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The favoured investment strategy in the stock market trough of the equity cycle is to…",
+            "options": [
+                "a) sell equities and buy long-term bonds",
+                "b) sell long-term bonds and buy equities",
+                "c) sell long-term bonds and equities and buy short-term bonds",
+                "d) sell short-term bonds and buy long-term bonds"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor borrowed $10,000 for his 2007 RRSP contribution. His interest charges were $500 for the year. In addition, his RRSP had an annual admin fee of $100. In total, the interest and admin expenditures would reduce his taxable income by…",
+            "options": [
+                "a) $0",
+                "b) $100",
+                "c) $500",
+                "d) $600"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "What is the company’s earnings per common share?",
+            "options": [
+                "a) $1.95",
+                "b) $2.45",
+                "c) $2.50",
+                "d) $3.00"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What is the company’s price-earnings ratio?",
+            "options": [
+                "a) 16.7",
+                "b) 20.0",
+                "c) 20.4",
+                "d) 25.6"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchased $4,000 in LSVCCs and contributed them into his RRSP. If his average tax rate is 20% and his marginal tax rate is 25%, the after-tax cost of this purchase is…",
+            "options": [
+                "a) $1,200",
+                "b) $1,500",
+                "c) $1,800",
+                "d) $2,000"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A growth manager looks for all of the following except…",
+            "options": [
+                "a) High P/E multiples",
+                "b) High Price/Book Value",
+                "c) High Dividend Payout Ratio",
+                "d) High Price/Cash Flow"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which mutual fund’s NAV is held at a constant $10?",
+            "options": [
+                "a) money market funds",
+                "b) bond funds",
+                "c) balanced funds",
+                "d) real estate funds"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchased 200 shares in 2004 for $10 per share. The commission was 2% of the purchase value. Early in 2005 she bought 300 more shares at $13, and was charged a flat commission of $50. If she sold 200 shares later that year, the adjusted cost base would be…",
+            "options": [
+                "a) $10.00",
+                "b) $10.20",
+                "c) $11.98",
+                "d) $13.17"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which theory of stock market behaviour argues that investors react quickly to the release of new information and that the stock’s current price is the best reflection of its true market value?",
+            "options": [
+                "a) Efficient Market Hypothesis",
+                "b) Random Walk Theory",
+                "c) Rational Expectations Hypothesis",
+                "d) Fair Value Theorem"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Which equity manager style(s) solely applies a top-down investing approach?",
+            "options": [
+                "a) value",
+                "b) growth",
+                "c) sector rotator",
+                "d) value and growth"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The mutual fund industry has responded to segregated funds with…",
+            "options": [
+                "a) proprietary funds",
+                "b) index funds",
+                "c) discretionary funds",
+                "d) protected funds"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "All of the following are event driven hedge fund strategies except…",
+            "options": [
+                "a) merger arbitrage",
+                "b) distressed securities",
+                "c) high yield bonds",
+                "d) managed futures"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An investor paid a total of $99,000 for a Government of Canada Bond with a face value of $100,000 priced at 97. (Assume that there were no commission charges.) When the bond matures, the taxable amount of the investor’s capital gain will be…",
+            "options": [
+                "a) $1,000",
+                "b) $1,500",
+                "c) $2,000",
+                "d) $3,000"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A security earns $2.00 per share. Its dividend payout ratio is 45%. If an investor requires a return of 8% and the long-term growth rate of the security is 6%, then according to the Dividend Discount Model, fair value is…",
+            "options": [
+                "a) $ 45.00",
+                "b) $ 55.00",
+                "c) $ 75.00",
+                "d) $100.00"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "What document contains the operating rules, guidelines and investment objectives and asset mix agreed upon by the manager and client?",
+            "options": [
+                "a) New Account Application Form",
+                "b) Investment Policy Statement",
+                "c) Investor Agreement Form",
+                "d) Investment Manager’s Contract"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What types of fixed-income manager looks to profit from differences in rates between federal, provincial and/or corporate bonds?",
+            "options": [
+                "a) Term to maturity managers",
+                "b) Credit quality managers",
+                "c) Interest rate anticipators",
+                "d) Spread traders"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Technical analysis is based on all of the following assumptions except…",
+            "options": [
+                "a) all influences on market activity are automatically discounted",
+                "b) prices move in trends and those trends persist for relatively long periods of time",
+                "c) the Random Walk Theory explains price action",
+                "d) the future repeats the past"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The Government of Canada issued a floating rate bond. If an investor bought this security, which of the following risks would she be exposed to?",
+            "options": [
+                "a) business risk",
+                "b) interest rate risk",
+                "c) default risk",
+                "d) none of the above"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Risk in an individual security or portfolio is generally measured by all of the following except…",
+            "options": [
+                "a) standard deviation",
+                "b) variance",
+                "c) correlation",
+                "d) beta"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor would avoid recapture of LSVCC tax credits in all of the following circumstances except…",
+            "options": [
+                "a) if the redemption request was made within 180 days of the acquisition",
+                "b) if the original purchaser becomes disabled and permanently unfit for work",
+                "c) if the original purchaser, having held the funds for two years, reaches the age of 65",
+                "d) if, as a consequence of the death of the original purchaser, a second investor receives the shares"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor short-sells a security that subsequently becomes worthless due to bankruptcy. According to the Income Tax Act…",
+            "options": [
+                "a) the investor is deemed to have sold the security for nil proceeds",
+                "b) the investor is deemed to have purchased the security for nil",
+                "c) the investor is able to claim capital losses on the transaction",
+                "d) the investor is not responsible for capital gains on the transaction"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following is not true of income trusts?",
+            "options": [
+                "a) An income-trust is in some ways similar to a closed-end fund.",
+                "b) The trust avoids paying tax because it pays out 85% to 95% of its cash flow.",
+                "c) Distributions from a trust never include some return of capital.",
+                "d) Income trusts are organized into three primary categories: Real Estate Investment Trusts, Royalty or Resource Trusts, and Business Income Trusts"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A support level is established when…",
+            "options": [
+                "a) demand exceeds supply and prices increase",
+                "b) demand exceeds supply and prices decrease",
+                "c) supply exceeds demand and prices increase",
+                "d) supply exceeds demand and prices decrease"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "An investor purchases index mutual funds. She would be exposed to…",
+            "options": [
+                "a) systematic risk only",
+                "b) non-systematic risk only",
+                "c) both systematic risk and non-systematic risk",
+                "d) neither systematic risk nor non-systematic risk"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The main creator of mortgage backed securities in Canada is…",
+            "options": [
+                "a) the IDA",
+                "b) the chartered banks",
+                "c) Canada Mortgage and Housing Corporation (CMHC)",
+                "d) Canada Deposit Insurance Corporation (CDIC)"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "At what age is it mandatory to de-register an RRSP plan?",
+            "options": [
+                "a) 65",
+                "b) 71",
+                "c) 90",
+                "d) There is no mandatory age."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The portfolio management technique that involves adjusting the asset mix to systematically re-balance the portfolio is known as…",
+            "options": [
+                "a) strategic asset allocation",
+                "b) tactical asset allocation",
+                "c) dynamic asset allocation",
+                "d) integrated asset allocation"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The most popular way of measuring market breadth is the…",
+            "options": [
+                "a) new highs and new lows",
+                "b) advance-decline line",
+                "c) Elliott Wave Theory",
+                "d) oscillator index"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "All of the following are main advantages of wrap programs except…",
+            "options": [
+                "a) more individualized asset allocation than a fund of funds",
+                "b) the structuring of efficient portfolios to achieve an optimal return",
+                "c) enhanced reporting services",
+                "d) fees based on asset growth rather than assets under management"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Alfred Jones, the father of hedge funds, employed two speculative tools to offer protection from a declining equity market while achieving superior returns. One was short-selling. The other was…",
+            "options": [
+                "a) derivatives",
+                "b) hedging",
+                "c) leverage",
+                "d) principal-protected notes"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "The most commonly used risk-adjusted portfolio measure is the…",
+            "options": [
+                "a) Benchmark ratio",
+                "b) Sharpe ratio",
+                "c) Traynor ratio",
+                "d) Klinghorn comparison"
+            ],
+            "answer": "2"
+        },{
+            "question": "A security had the following weekly closing prices: Week One $20.00 Week Two $20.50 Week Three $20.75 Week Four $20.50 Week Five $21.25 What is the four week moving average at the end of Week Five?",
+            "options": [
+                "a) $20.60",
+                "b) $20.75",
+                "c) $20.88",
+                "d) $21.00"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "What are the two types of registered pension plans?",
+            "options": [
+                "a) money purchase plans and defined contribution plans",
+                "b) defined contribution plans and defined receipt plans",
+                "c) money purchase plans and defined receipt plans",
+                "d) defined benefit plans and defined contribution plans"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In order to correctly forecast the return of fixed-income securities, the investment manager must forecast…",
+            "options": [
+                "a) the business cycle",
+                "b) corporate profits",
+                "c) the equity cycle",
+                "d) interest rates"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "An ETF is similar to an index mutual fund in that…",
+            "options": [
+                "a) they both guarantee liquidity through the right of redemption",
+                "b) they both trade on the stock exchange",
+                "c) they both represent a passive style of investing",
+                "d) they both can be short-sold"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "A hedge fund manager is long $120,000 worth of securities and short $80,000 worth of securities. Therefore, her leverage is…",
+            "options": [
+                "a) .40",
+                "b) .60",
+                "c) 1.7",
+                "d) 2.5"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor has the primary investment objective of safety of principal. Assume that T-Bills currently yield approximately 5%. In order to guarantee the initial value of the portfolio in one year and allow for some growth, the investment manager could…",
+            "options": [
+                "a) invest 100% of the portfolio in segregated funds",
+                "b) invest 95% of the portfolio in Treasury bills and 5% in risky securities",
+                "c) invest 100% of the portfolio in Treasury bills",
+                "d) diversify the portfolio as widely as possible among cash, bonds and equity products"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The most popular indicator that technical analysts use to track momentum is/are…",
+            "options": [
+                "a) oscillators",
+                "b) the moving average convergence-divergence",
+                "c) cycle analysis",
+                "d) Elliott Wave Theory"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An investor purchased mutual funds unit in 2002 for $10. She sold them for $13 in 2005. As a result, we could conclude that…",
+            "options": [
+                "a) she would have a taxable gain of $3.00 per unit in 2005",
+                "b) she would have a taxable gain of $1.50 per unit in 2005",
+                "c) her 2005 tax liability would have to be adjusted upwards by distributions received in previous years",
+                "d) her 2005 tax liability would have to be adjusted downwards by distributions received in previous years"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A self-employed professional died and left a non-registered investment portfolio of $250,000 – $125,000 of which were segregated funds and $125,000 of which were mutual funds. As well, he has business related debts of $200,000. His beneficiaries would receive…",
+            "options": [
+                "a) $ 50,000",
+                "b) $125,000",
+                "c) $200,000",
+                "d) $250,000"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "Which of the following groups of securities is correctly ranked from highest risk to lowest risk?",
+            "options": [
+                "a) treasury bills, bonds, preferred shares, common shares",
+                "b) derivatives, preferred shares, bonds, debentures",
+                "c) common shares, debentures, treasury bills, bonds",
+                "d) derivatives, preferred shares, debentures, treasury bills"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "Carolyn Johnson made $50,000 in salary income and $20,000 in commissions. She had gross rental income of $12,000 which netted out to $4,000. In addition, she received $1,500 in royalty payments for various magazine articles and $750 in dividend income. Her RRSP contribution limit would be…",
+            "options": [
+                "a) $12,600",
+                "b) $13,590",
+                "c) $15,030",
+                "d) $15,165"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "An index-linked GIC is…",
+            "options": [
+                "a) not insured against issuer default.",
+                "b) insured by CIPF.",
+                "c) insured by CLHIA.",
+                "d) insured by CDIC."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "A technical analyst notices that the moving average line is broken from below on light volume. He would…",
+            "options": [
+                "a) interpret this as a buy signal even though the light volume would concern him",
+                "b) interpret this as a buy signal and the light volume would confirm this decision",
+                "c) interpret this as a sell signal even though the light volume would concern him",
+                "d) interpret this as a sell signal and the light volume would confirm this decision"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Rules outlined in National Instrument 81 – 102 state that new mutual funds must…",
+            "options": [
+                "a) calculate their NAVPS daily",
+                "b) calculate their NAVPS at least weekly",
+                "c) calculate their NAVPS at least monthly",
+                "d) National Instrument 81 – 102 states that new mutual funds may calculate their NAVPS at their own discretion."
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "The first two steps of the portfolio process are…",
+            "options": [
+                "a) designing an investment policy statement and implementing the asset allocation",
+                "b) designing an investment policy statement and monitoring the economy, markets, and client",
+                "c) determining investment objectives and constraints and designing an investment policy statement",
+                "d) determining investment objectives and constraints and formulating an asset allocation strategy"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "According to the Dividend Discount Model…",
+            "options": [
+                "a) the higher the dollar amount of the dividend and the higher the growth rate, the higher the price of the security",
+                "b) the higher the dividend payout ratio and the higher the growth rate, the higher the price of the security",
+                "c) the higher the dollar amount of the dividend and the higher the required return, the higher the price of the security",
+                "d) the higher the growth rate and the higher the required return, the higher the price of the security"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "A mutual fund was sold with a deferred sales charge that started at 6% in Year One and declined by 1% each year thereafter. If the sales charge is applied on the original purchase amount and the units were purchased for $20 and sold after 18 months for $18, the investor would receive…",
+            "options": [
+                "a) $17.00",
+                "b) $17.10",
+                "c) $18.90",
+                "d) $19.00"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "When a parent transfers investments to adult children by way of a gift, this results in a(n)…",
+            "options": [
+                "a) an arm’s length transaction",
+                "b) attribution rule",
+                "c) deferred tax liability",
+                "d) deemed disposition"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The most basic industry rotation strategy involves moving back and forth between…",
+            "options": [
+                "a) value and growth.",
+                "b) blue-chip and speculative.",
+                "c) cyclical and defensive.",
+                "d) small-cap and large-cap."
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "An investor purchases a mutual fund with a NAVPS of $25.00 and a front-end load of 4%. Its offering or purchase price would be…",
+            "options": [
+                "a) $24.00",
+                "b) $25.00",
+                "c) $26.00",
+                "d) $26.04"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "The most stringent liquidity ratio is the…",
+            "options": [
+                "a) working capital or current ratio",
+                "b) working capital or acid test ratio",
+                "c) quick ratio or current ratio",
+                "d) acid test or quick ratio"
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "You are examining financial statements and see that a company’s debt-equity ratio has increased year-over-year. All of the following would have accounted for this except…",
+            "options": [
+                "a) The company issued preferred shares.",
+                "b) The company paid a large, one-time dividend.",
+                "c) The company issued convertible bonds.",
+                "d) The company bought back shares in open market transactions."
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "The ______ is an indication of the efficiency of management in turning over the company’s goods at a profit.",
+            "options": [
+                "a) gross profit margin",
+                "b) operating profit margin",
+                "c) pre-tax profit margin",
+                "d) net profit margin"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "To be meaningful, the inventory turnover ratio should be calculated using…",
+            "options": [
+                "a) gross sales.",
+                "b) net sales.",
+                "c) gross profit.",
+                "d) cost of goods sold."
+            ],
+            "answer": "4"
+        },
+        {
+            "question": "In practice, a common stock’s market price reflects…",
+            "options": [
+                "a) the EPS over the past five to ten years",
+                "b) the EPS in the past year",
+                "c) the current EPS",
+                "d) the anticipated EPS over the next 12 to 24 months"
+            ],
+            "answer": "4"
+        }
+    ]
+}
